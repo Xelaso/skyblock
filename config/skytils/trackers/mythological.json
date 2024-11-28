@@ -1,0 +1,23 @@
+{
+    "dug": 183,
+    "items": {
+        "ANTIQUE_REMEDIES": 0,
+        "ENCHANTED_BOOK-ULTIMATE_CHIMERA-1": 0,
+        "COINS": 1190000,
+        "CROCHET_TIGER_PLUSHIE": 0,
+        "CROWN_OF_GREED": 0,
+        "DAEDALUS_STICK": 0,
+        "DWARF_TURTLE_SHELMET": 0,
+        "GRIFFIN_FEATHER": 31,
+        "MINOS_RELIC": 0,
+        "WASHED_UP_SOUVENIR": 0
+    },
+    "mobs": {
+        "GAIA_CONSTRUCT": 21,
+        "MINOS_CHAMPION": 16,
+        "MINOS_HUNTER": 17,
+        "MINOS_INQUISITOR": 1,
+        "MINOTAUR": 22,
+        "SIAMESE_LYNXES": 19
+    }
+}

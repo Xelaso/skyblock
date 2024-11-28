@@ -1,0 +1,5546 @@
+{
+    "INK_SACK:3": {
+        "buy": 3.9449220376261733,
+        "sell": 1.3
+    },
+    "CORRUPTED_BAIT": {
+        "buy": 62.31604695345366,
+        "sell": 3.5014865743751744
+    },
+    "INK_SACK:4": {
+        "buy": 13.6,
+        "sell": 3.331766597232426
+    },
+    "TARANTULA_WEB": {
+        "buy": 306.2084773063423,
+        "sell": 238.69029106967835
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2": {
+        "buy": 1.1,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1": {
+        "buy": 0.1,
+        "sell": 0
+    },
+    "DUNGEON_TRAP": {
+        "buy": 8.856110859945474,
+        "sell": 0
+    },
+    "DARK_ORB": {
+        "buy": 363737.68055555556,
+        "sell": 170948.22163661584
+    },
+    "ARCHITECT_FIRST_DRAFT": {
+        "buy": 58765.143693693695,
+        "sell": 38702.933707865166
+    },
+    "ENCHANTMENT_PROTECTION_7": {
+        "buy": 42999995.9,
+        "sell": 38836159.92380952
+    },
+    "ENCHANTMENT_PROTECTION_6": {
+        "buy": 3969785.3,
+        "sell": 3877852.2590163937
+    },
+    "RITUAL_RESIDUE": {
+        "buy": 3255122.8,
+        "sell": 2992833.5384615385
+    },
+    "ESSENCE_DRAGON": {
+        "buy": 4312.066985099057,
+        "sell": 3940.4760466058765
+    },
+    "ENCHANTMENT_PROTECTION_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GIANT_FRAGMENT_LASER": {
+        "buy": 789995.9,
+        "sell": 723706.9238787879
+    },
+    "ENCHANTMENT_PROTECTION_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_MELON": {
+        "buy": 326.0301244649892,
+        "sell": 310.3576351656119
+    },
+    "ENCHANTMENT_PROTECTION_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROTECTION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROTECTION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_COCO_1": {
+        "buy": 36367.925,
+        "sell": 13565.932462686567
+    },
+    "ENCHANTMENT_TURBO_COCO_5": {
+        "buy": 814991.5333333333,
+        "sell": 317993.309375
+    },
+    "ENCHANTMENT_TURBO_COCO_4": {
+        "buy": 728977.3,
+        "sell": 89790.5
+    },
+    "ENCHANTMENT_TURBO_COCO_3": {
+        "buy": 408034.5,
+        "sell": 16001.100000000002
+    },
+    "ENCHANTED_BLAZE_ROD": {
+        "buy": 641718.4098360656,
+        "sell": 591727.0873641985
+    },
+    "ENCHANTMENT_TURBO_COCO_2": {
+        "buy": 198997.1,
+        "sell": 1000.5015503875969
+    },
+    "FRESHLY_MINTED_COINS": {
+        "buy": 4271213.3,
+        "sell": 3784230.725609756
+    },
+    "ENCHANTED_BROWN_MUSHROOM": {
+        "buy": 1598.8301238552115,
+        "sell": 1540
+    },
+    "GOBLIN_EGG_YELLOW": {
+        "buy": 11177.478860759493,
+        "sell": 8704.920460951158
+    },
+    "PARTY_GIFT": {
+        "buy": 7299013.5,
+        "sell": 5176931.6
+    },
+    "ENCHANTED_GLISTERING_MELON": {
+        "buy": 7775.800000000001,
+        "sell": 3851.800057920649
+    },
+    "ENCHANTMENT_CORRUPTION_5": {
+        "buy": 116187.3,
+        "sell": 21143.651724137926
+    },
+    "ENCHANTMENT_CORRUPTION_4": {
+        "buy": 49999.5,
+        "sell": 10
+    },
+    "PROTECTOR_FRAGMENT": {
+        "buy": 12835.7,
+        "sell": 10253.230978713284
+    },
+    "ENCHANTMENT_CORRUPTION_3": {
+        "buy": 6559.9,
+        "sell": 0
+    },
+    "ENCHANTMENT_CORRUPTION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CORRUPTION_1": {
+        "buy": 10.733333333333333,
+        "sell": 0
+    },
+    "ENCHANTED_MELON_BLOCK": {
+        "buy": 50794.27536800786,
+        "sell": 50275.6
+    },
+    "ROCK_GEMSTONE": {
+        "buy": 3908194.2014705883,
+        "sell": 3200000.8
+    },
+    "CONDENSED_FERMENTO": {
+        "buy": 2465287.5257142857,
+        "sell": 2223712.609538951
+    },
+    "BEADY_EYES": {
+        "buy": 1805.5096153846155,
+        "sell": 93.34838709677418
+    },
+    "DIAMOND": {
+        "buy": 10.198376347737497,
+        "sell": 6.432508415241686
+    },
+    "COBBLESTONE": {
+        "buy": 1.6365272274514102,
+        "sell": 0.4
+    },
+    "ENCHANTED_PUFFERFISH": {
+        "buy": 2355.6417594310456,
+        "sell": 2246.2521772421346
+    },
+    "PERFECT_RUBY_GEM": {
+        "buy": 15480132.4,
+        "sell": 13861664.082236841
+    },
+    "MINION_EXPANDER": {
+        "buy": 94007.4356,
+        "sell": 59735.95666156203
+    },
+    "END_STONE_SHULKER": {
+        "buy": 52482.240000000005,
+        "sell": 14050.717254901961
+    },
+    "ENCHANTMENT_CAYENNE_5": {
+        "buy": 15999982.52117647,
+        "sell": 7999992.9
+    },
+    "ENCHANTED_HARD_STONE": {
+        "buy": 1240.1030981067127,
+        "sell": 869.2845287033738
+    },
+    "ENCHANTMENT_CAYENNE_4": {
+        "buy": 9999996.1,
+        "sell": 4525317.2
+    },
+    "WINTER_FRAGMENT": {
+        "buy": 1338999.2,
+        "sell": 987932.3031914893
+    },
+    "ENDER_MONOCLE": {
+        "buy": 23242.96851851852,
+        "sell": 4273.594321766561
+    },
+    "KELVIN_INVERTER": {
+        "buy": 114810.99473684211,
+        "sell": 92635.40904907975
+    },
+    "REFINED_DIAMOND": {
+        "buy": 744225.4585470086,
+        "sell": 687932.6708420321
+    },
+    "HAZMAT_ENDERMAN": {
+        "buy": 8165.846000000001,
+        "sell": 100.04919093851133
+    },
+    "LUXURIOUS_SPOOL": {
+        "buy": 993.8242798353909,
+        "sell": 3.6202531645569622
+    },
+    "FLAWED_OPAL_GEM": {
+        "buy": 622.0167346938775,
+        "sell": 349.02249368198727
+    },
+    "ENCHANTMENT_CAYENNE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "PORK": {
+        "buy": 96.24665544109878,
+        "sell": 24.869656252314396
+    },
+    "ENCHANTMENT_CAYENNE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CAYENNE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ENDER_SLAYER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "PET_CAKE": {
+        "buy": 65900.16666666667,
+        "sell": 11002.266285211266
+    },
+    "HONEY_JAR": {
+        "buy": 16097.2,
+        "sell": 9911.2
+    },
+    "ULTIMATE_CARROT_CANDY": {
+        "buy": 2999999.8999999994,
+        "sell": 2700302.4145833333
+    },
+    "ENCHANTMENT_LAPIDARY_4": {
+        "buy": 17999997,
+        "sell": 8500001.8
+    },
+    "SOLAR_PANEL": {
+        "buy": 532032.5,
+        "sell": 325002.17108801956
+    },
+    "ENCHANTMENT_LAPIDARY_3": {
+        "buy": 9700000,
+        "sell": 3339508.625
+    },
+    "ENCHANTMENT_LAPIDARY_2": {
+        "buy": 5050719.3,
+        "sell": 1517792.1719298244
+    },
+    "ENCHANTMENT_LAPIDARY_1": {
+        "buy": 1908995.452631579,
+        "sell": 1742519.581426202
+    },
+    "ENCHANTMENT_FIRE_ASPECT_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "LOG_2:1": {
+        "buy": 4.145213306691906,
+        "sell": 0.4
+    },
+    "UNDEAD_CATALYST": {
+        "buy": 2211.599191685912,
+        "sell": 1502.1
+    },
+    "ENCHANTMENT_TURBO_CACTUS_5": {
+        "buy": 324999.76666666666,
+        "sell": 100000.1
+    },
+    "ENCHANTED_SNOW_BLOCK": {
+        "buy": 580.6686460901486,
+        "sell": 561.1276378819728
+    },
+    "ENCHANTMENT_TURBO_CACTUS_4": {
+        "buy": 274998.4,
+        "sell": 50002.02558139535
+    },
+    "ENCHANTMENT_TURBO_CACTUS_3": {
+        "buy": 255150.47931034485,
+        "sell": 10
+    },
+    "ENCHANTMENT_TURBO_CACTUS_2": {
+        "buy": 160762.25,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRE_ASPECT_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRE_ASPECT_3": {
+        "buy": 136593.96576576575,
+        "sell": 15567.830350194552
+    },
+    "ENCHANTMENT_LAPIDARY_5": {
+        "buy": 34999993.96666667,
+        "sell": 26807333.5
+    },
+    "ENCHANTMENT_TURBO_CACTUS_1": {
+        "buy": 9634.654545454547,
+        "sell": 3.3
+    },
+    "ENCHANTMENT_ENDER_SLAYER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ENDER_SLAYER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ENDER_SLAYER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ENDER_SLAYER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ENDER_SLAYER_7": {
+        "buy": 143646248.1,
+        "sell": 130908441.64000002
+    },
+    "ENCHANTMENT_ENDER_SLAYER_6": {
+        "buy": 1577999.4,
+        "sell": 1340002.500392157
+    },
+    "ENCHANTMENT_SHARPNESS_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "DUNGEON_DECOY": {
+        "buy": 396.9853537284895,
+        "sell": 7.4
+    },
+    "REFINED_TUNGSTEN": {
+        "buy": 2407094.0972972973,
+        "sell": 2384539.7344262297
+    },
+    "ENCHANTMENT_SHARPNESS_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "JERRY_BOX_GOLDEN": {
+        "buy": 1206418.3880258899,
+        "sell": 839805.1136363636
+    },
+    "ENCHANTMENT_SHARPNESS_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SHARPNESS_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SHARPNESS_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BIG_BRAIN_4": {
+        "buy": 499999999.4,
+        "sell": 14000002.739999998
+    },
+    "ENCHANTMENT_BIG_BRAIN_5": {
+        "buy": 303049248.1,
+        "sell": 168384354.85
+    },
+    "ENCHANTMENT_BIG_BRAIN_3": {
+        "buy": 68732782.32222222,
+        "sell": 52448587.91428572
+    },
+    "ENCHANTED_CARROT_ON_A_STICK": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_THUNDERLORD_7": {
+        "buy": 7026269.6,
+        "sell": 6000003.023529412
+    },
+    "ENCHANTMENT_THUNDERLORD_6": {
+        "buy": 48592.57407407407,
+        "sell": 3
+    },
+    "ENCHANTMENT_TURBO_MELON_5": {
+        "buy": 519999.2,
+        "sell": 250000
+    },
+    "FLY_SWATTER": {
+        "buy": 506795.82173913036,
+        "sell": 430325.3404761905
+    },
+    "DERELICT_ASHE": {
+        "buy": 643.2546257284752,
+        "sell": 392.3296481842071
+    },
+    "ENCHANTMENT_THUNDERLORD_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_THUNDERLORD_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SHARPNESS_7": {
+        "buy": 114399995,
+        "sell": 109000001.6
+    },
+    "ENCHANTMENT_THUNDERLORD_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SHARPNESS_6": {
+        "buy": 1619603.6384615381,
+        "sell": 976352.6176691728
+    },
+    "ENCHANTMENT_THUNDERLORD_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_ACACIA_LOG": {
+        "buy": 1713.4724114896462,
+        "sell": 1208.7088333006493
+    },
+    "ENCHANTMENT_MANA_STEAL_1": {
+        "buy": 9140.790909090909,
+        "sell": 1009.6813753581662
+    },
+    "ENCHANTMENT_MANA_STEAL_2": {
+        "buy": 72885.35714285714,
+        "sell": 4965.394861660078
+    },
+    "ENCHANTMENT_THUNDERLORD_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_MANA_STEAL_3": {
+        "buy": 136400.9888888889,
+        "sell": 15947.8
+    },
+    "SAND": {
+        "buy": 5.9,
+        "sell": 0.8046859363042327
+    },
+    "PLASMA_BUCKET": {
+        "buy": 14145633.544999998,
+        "sell": 13628697.402419355
+    },
+    "ANCIENT_CLAW": {
+        "buy": 185.1,
+        "sell": 155.55514542947884
+    },
+    "ENCHANTMENT_STRONG_MANA_7": {
+        "buy": 12427888.4,
+        "sell": 112.15714285714287
+    },
+    "ENCHANTMENT_TURBO_MELON_3": {
+        "buy": 213999.11428571428,
+        "sell": 18454.44576271186
+    },
+    "ENCHANTED_GHAST_TEAR": {
+        "buy": 714.6454806391711,
+        "sell": 431.598521376574
+    },
+    "ENCHANTMENT_TURBO_MELON_4": {
+        "buy": 456999.6347826088,
+        "sell": 72501.7
+    },
+    "ENCHANTMENT_STRONG_MANA_6": {
+        "buy": 6999995.5,
+        "sell": 2000000.4
+    },
+    "ENCHANTMENT_TURBO_MELON_1": {
+        "buy": 25971.1,
+        "sell": 4037.496774193549
+    },
+    "ENCHANTMENT_STRONG_MANA_5": {
+        "buy": 2661906.566666667,
+        "sell": 1953718.7214723928
+    },
+    "ENCHANTED_COCOA": {
+        "buy": 579.2251572244295,
+        "sell": 512.8224598113712
+    },
+    "ENCHANTMENT_STRONG_MANA_4": {
+        "buy": 1349999.95,
+        "sell": 744205.5219907408
+    },
+    "ENCHANTMENT_TURBO_MELON_2": {
+        "buy": 89998.89999999998,
+        "sell": 120.5
+    },
+    "ENCHANTMENT_STRONG_MANA_3": {
+        "buy": 2731857.75,
+        "sell": 304018.7455210238
+    },
+    "ENCHANTMENT_STRONG_MANA_2": {
+        "buy": 828997.5,
+        "sell": 119218.20818330607
+    },
+    "AMBER_MATERIAL": {
+        "buy": 2999999.685714286,
+        "sell": 2261148.789473684
+    },
+    "ENCHANTMENT_STRONG_MANA_1": {
+        "buy": 399998.4,
+        "sell": 91300.79002932551
+    },
+    "CARROT_BAIT": {
+        "buy": 424.62697438069017,
+        "sell": 91.34247776846772
+    },
+    "FINE_TOPAZ_GEM": {
+        "buy": 33802.588647632074,
+        "sell": 32110.283876379694
+    },
+    "FINE_RUBY_GEM": {
+        "buy": 25832.922917424516,
+        "sell": 24372.357829127395
+    },
+    "HYPERGOLIC_IONIZED_CERAMICS": {
+        "buy": 2989.6712765957445,
+        "sell": 1300.7087008125627
+    },
+    "HAY_BLOCK": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_ROTTEN_FLESH": {
+        "buy": 1299.3096223846176,
+        "sell": 1064.5137048219572
+    },
+    "ENCHANTED_GRILLED_PORK": {
+        "buy": 163398.75056294783,
+        "sell": 149802.20411651576
+    },
+    "WISHING_COMPASS": {
+        "buy": 1.9993941823689252,
+        "sell": 0
+    },
+    "ENCHANTED_ANCIENT_CLAW": {
+        "buy": 3953.1399999999994,
+        "sell": 2846.154892570164
+    },
+    "DWARVEN_OS_ORE_OATS": {
+        "buy": 2987.999401197605,
+        "sell": 2.1
+    },
+    "ENCHANTMENT_HARDENED_MANA_1": {
+        "buy": 33332.3,
+        "sell": 24261.505741626795
+    },
+    "FULL_CHUM_BUCKET": {
+        "buy": 9456.8,
+        "sell": 6308.71698489125
+    },
+    "OVERGROWN_GRASS": {
+        "buy": 49626302.349999994,
+        "sell": 45983617.96
+    },
+    "ENCHANTMENT_HARDENED_MANA_3": {
+        "buy": 1000000,
+        "sell": 40010.83414634146
+    },
+    "PUMPKIN_BOMB": {
+        "buy": 5345.573969072165,
+        "sell": 5017.9
+    },
+    "ENCHANTMENT_HARDENED_MANA_2": {
+        "buy": 103465.275,
+        "sell": 27839.9956043956
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_1": {
+        "buy": 9184.628571428573,
+        "sell": 0
+    },
+    "SOULFLOW_ENGINE": {
+        "buy": 21706531.3,
+        "sell": 16539969.049999999
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_2": {
+        "buy": 0,
+        "sell": 0.1
+    },
+    "PET_ITEM_TOY_JERRY": {
+        "buy": 29499.066666666673,
+        "sell": 1064.3
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_5": {
+        "buy": 274999.5,
+        "sell": 35319.14477611941
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_3": {
+        "buy": 449999.5,
+        "sell": 1
+    },
+    "ENCHANTED_LAVA_BUCKET": {
+        "buy": 328709.8578483246,
+        "sell": 306152.10231958766
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_4": {
+        "buy": 949999.4,
+        "sell": 5.6065891472868215
+    },
+    "BUBBA_BLISTER": {
+        "buy": 649999.4,
+        "sell": 491190.6802919707
+    },
+    "RAW_FISH:3": {
+        "buy": 16.582847219169054,
+        "sell": 8.1
+    },
+    "ENCHANTED_UMBER": {
+        "buy": 13125.675019461312,
+        "sell": 10005.644482410753
+    },
+    "ENCHANTMENT_STRONG_MANA_9": {
+        "buy": 69999999.5,
+        "sell": 2484556.4
+    },
+    "ENCHANTMENT_STRONG_MANA_8": {
+        "buy": 31999000,
+        "sell": 2599962
+    },
+    "ROUGH_AQUAMARINE_GEM": {
+        "buy": 4.408505413482265,
+        "sell": 1.4
+    },
+    "DIAMOND_ATOM": {
+        "buy": 16377.520454545454,
+        "sell": 1.6000000000000003
+    },
+    "RAW_FISH:2": {
+        "buy": 21.999951978757665,
+        "sell": 11.3
+    },
+    "PRECURSOR_GEAR": {
+        "buy": 632006.9933333334,
+        "sell": 464335.116880734
+    },
+    "RAW_FISH:1": {
+        "buy": 9.098184464907833,
+        "sell": 5.248514784338547
+    },
+    "GOBLIN_EGG_RED": {
+        "buy": 143067.70375000002,
+        "sell": 132863.779137654
+    },
+    "ENCHANTMENT_TURBO_WARTS_1": {
+        "buy": 949.0625000000001,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_WARTS_2": {
+        "buy": 0,
+        "sell": 0.1
+    },
+    "ENCHANTMENT_TURBO_WARTS_3": {
+        "buy": 68845.65714285713,
+        "sell": 0.5
+    },
+    "ENCHANTMENT_TURBO_WARTS_4": {
+        "buy": 223736.65555555554,
+        "sell": 5.179282868525896
+    },
+    "ENCHANTMENT_TURBO_WARTS_5": {
+        "buy": 150000,
+        "sell": 56000
+    },
+    "WHALE_BAIT": {
+        "buy": 3545.1008661382252,
+        "sell": 3076.2
+    },
+    "SPONGE": {
+        "buy": 205.95014534692535,
+        "sell": 31.16875540573507
+    },
+    "ENCHANTED_DARK_OAK_LOG": {
+        "buy": 866.0840903275333,
+        "sell": 707.6165954507485
+    },
+    "FLAWLESS_TOPAZ_GEM": {
+        "buy": 2813599.591666667,
+        "sell": 2404634.750850662
+    },
+    "ENCHANTMENT_HARDENED_MANA_5": {
+        "buy": 592467.9333333333,
+        "sell": 300473.7341911765
+    },
+    "ENCHANTMENT_HARDENED_MANA_4": {
+        "buy": 455494.3,
+        "sell": 113120.28923076922
+    },
+    "ENCHANTMENT_HARDENED_MANA_7": {
+        "buy": 4410990.1,
+        "sell": 300001.95384615386
+    },
+    "CAPSAICIN_EYEDROPS_NO_CHARGES": {
+        "buy": 1499998.3,
+        "sell": 1200002.0275675675
+    },
+    "ENCHANTMENT_HARDENED_MANA_6": {
+        "buy": 1712888.4033333333,
+        "sell": 200001.7
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4": {
+        "buy": 0,
+        "sell": 20
+    },
+    "ENCHANTMENT_HARDENED_MANA_9": {
+        "buy": 19999998.3,
+        "sell": 2700001.22
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3": {
+        "buy": 34896.3,
+        "sell": 10
+    },
+    "ENCHANTMENT_HARDENED_MANA_8": {
+        "buy": 10899989.4,
+        "sell": 2000000.9
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5": {
+        "buy": 0,
+        "sell": 25000.1
+    },
+    "ENCHANTED_RAW_CHICKEN": {
+        "buy": 673.0356557050721,
+        "sell": 557.0384820830145
+    },
+    "ENCHANTED_WATER_LILY": {
+        "buy": 1995.7132629646628,
+        "sell": 1425.8855535972434
+    },
+    "RED_SCARF": {
+        "buy": 1566665.9,
+        "sell": 685874.8887096773
+    },
+    "LOG:1": {
+        "buy": 7,
+        "sell": 2.041756600417868
+    },
+    "TITANIUM_ORE": {
+        "buy": 79.40213230645439,
+        "sell": 69.14666459900235
+    },
+    "ROBOTRON_REFLECTOR": {
+        "buy": 145200.98272251312,
+        "sell": 123995
+    },
+    "BLUE_SHARK_TOOTH": {
+        "buy": 31528.932049947973,
+        "sell": 22500.315281376912
+    },
+    "LOG:3": {
+        "buy": 10,
+        "sell": 4.5
+    },
+    "CHILI_PEPPER": {
+        "buy": 16426.992941407785,
+        "sell": 14050.002477082115
+    },
+    "LOG:2": {
+        "buy": 8.6,
+        "sell": 0.5
+    },
+    "ENCHANTED_HAY_BALE": {
+        "buy": 154064.9,
+        "sell": 143435.3
+    },
+    "SIL_EX": {
+        "buy": 5489996.30625,
+        "sell": 4643395.230508475
+    },
+    "ENCHANTED_CACTUS": {
+        "buy": 106350.78725212465,
+        "sell": 99589.40653034301
+    },
+    "SALT_CUBE": {
+        "buy": 18593.882857142857,
+        "sell": 3
+    },
+    "ONYX": {
+        "buy": 889.0863636363637,
+        "sell": 0
+    },
+    "ENCHANTED_COOKED_SALMON": {
+        "buy": 256080.00609756098,
+        "sell": 250747.67775053633
+    },
+    "ENCHANTED_SULPHUR": {
+        "buy": 1694.2859355378819,
+        "sell": 1542.617928305491
+    },
+    "TITANIUM_TESSERACT": {
+        "buy": 1131799.068,
+        "sell": 774738.7346153847
+    },
+    "ENCHANTED_SEEDS": {
+        "buy": 515.9193746957492,
+        "sell": 467.0148505711663
+    },
+    "ENCHANTED_BONE_MEAL": {
+        "buy": 584.7566652560305,
+        "sell": 320.1
+    },
+    "ENCHANTMENT_EXPERIENCE_5": {
+        "buy": 39997994.5,
+        "sell": 26976580.7
+    },
+    "ENCHANTED_BONE_BLOCK": {
+        "buy": 58879.39047619048,
+        "sell": 47335.80221774193
+    },
+    "OMEGA_EGG": {
+        "buy": 531515.6470588235,
+        "sell": 400000.17334851937
+    },
+    "SMALL_ENCHANTED_CHEST": {
+        "buy": 1487.1732551319647,
+        "sell": 200.10567575161562
+    },
+    "PURPLE_CANDY": {
+        "buy": 24798.603480568123,
+        "sell": 22872.74064134637
+    },
+    "ENCHANTMENT_EXPERIENCE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "POLISHED_PUMPKIN": {
+        "buy": 256634.5,
+        "sell": 250758.21264612113
+    },
+    "ENCHANTMENT_EXPERIENCE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERIENCE_4": {
+        "buy": 537185.6552173912,
+        "sell": 230126.9
+    },
+    "ENCHANTMENT_EXPERIENCE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_GOLD_BLOCK": {
+        "buy": 79169.19997292907,
+        "sell": 77583.40029952931
+    },
+    "FINE_OPAL_GEM": {
+        "buy": 31851.595703125,
+        "sell": 28471.9
+    },
+    "ENCHANTED_FLINT": {
+        "buy": 5953.476909297448,
+        "sell": 5725.358801300062
+    },
+    "SCORCHED_POWER_CRYSTAL": {
+        "buy": 1900090.6616352205,
+        "sell": 1632394.1258064518
+    },
+    "REHEATED_GUMMY_POLAR_BEAR": {
+        "buy": 146999.9,
+        "sell": 68583.73787741819
+    },
+    "SCARF_FRAGMENT": {
+        "buy": 577.4346623270951,
+        "sell": 166.8
+    },
+    "FURBALL": {
+        "buy": 2999.9561855670104,
+        "sell": 111.98611898016996
+    },
+    "ESSENCE_SPIDER": {
+        "buy": 1314.6917526908492,
+        "sell": 1024.6
+    },
+    "ENCHANTED_CLAY_BALL": {
+        "buy": 460.4381894250309,
+        "sell": 446.380327542402
+    },
+    "GLOWSTONE_DUST": {
+        "buy": 80.18612138351098,
+        "sell": 6.532336494043277
+    },
+    "FLYCATCHER_UPGRADE": {
+        "buy": 23799993.47605634,
+        "sell": 21441315.77
+    },
+    "PERFECT_AMETHYST_GEM": {
+        "buy": 16959795.495833334,
+        "sell": 16160099.280701755
+    },
+    "IMPLOSION_SCROLL": {
+        "buy": 322891479.6,
+        "sell": 212115033.8772109
+    },
+    "CROPIE": {
+        "buy": 26498.989424827087,
+        "sell": 24504.2119266055
+    },
+    "FTX_3070": {
+        "buy": 174008.5,
+        "sell": 160355.9
+    },
+    "ENDSTONE_GEODE": {
+        "buy": 200,
+        "sell": 0
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_5": {
+        "buy": 37499989.5,
+        "sell": 21000000.2
+    },
+    "PET_ITEM_VAMPIRE_FANG": {
+        "buy": 7799.9,
+        "sell": 400.4371875
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_10": {
+        "buy": 80000000,
+        "sell": 50000000
+    },
+    "GREAT_CARROT_CANDY": {
+        "buy": 249999.69461756374,
+        "sell": 200000.5
+    },
+    "ENCHANTED_BONE": {
+        "buy": 2194.234479790112,
+        "sell": 1843.6471101724744
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_3": {
+        "buy": 0,
+        "sell": 1891721.5285714285
+    },
+    "OPTICAL_LENS": {
+        "buy": 18999.476712328767,
+        "sell": 13.81081081081081
+    },
+    "LAVA_WATER_ORB": {
+        "buy": 3199999.1980000003,
+        "sell": 1600000.1
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_4": {
+        "buy": 21499996,
+        "sell": 1000000.5
+    },
+    "ENCHANTED_DIAMOND_BLOCK": {
+        "buy": 204150.44389984017,
+        "sell": 200383.070963777
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_1": {
+        "buy": 1701327.125,
+        "sell": 1326554.293181818
+    },
+    "ENCHANTMENT_DELICATE_5": {
+        "buy": 1295493.9375,
+        "sell": 833515.3507936507
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_2": {
+        "buy": 3999998.2,
+        "sell": 725010.0384615385
+    },
+    "GOBLIN_EGG_GREEN": {
+        "buy": 6459.698568398728,
+        "sell": 5668.2
+    },
+    "ENCHANTMENT_PROSECUTE_6": {
+        "buy": 135682401.9,
+        "sell": 125743080.67142856
+    },
+    "ENCHANTMENT_CASTER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSECUTE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CASTER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GIANT_FRAGMENT_BIGFOOT": {
+        "buy": 9441.427971473851,
+        "sell": 6201
+    },
+    "LIGHT_BAIT": {
+        "buy": 675.293006993007,
+        "sell": 82.52440715761993
+    },
+    "HOT_POTATO_BOOK": {
+        "buy": 83407.61898340248,
+        "sell": 80510.54442567567
+    },
+    "MAGIC_MUSHROOM_SOUP": {
+        "buy": 999.3,
+        "sell": 230.1
+    },
+    "ENCHANTMENT_CASTER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "CLAY_BALL": {
+        "buy": 4.033487649741322,
+        "sell": 0.7
+    },
+    "ENCHANTMENT_CASTER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CASTER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "OLD_FRAGMENT": {
+        "buy": 13998.2,
+        "sell": 10254.200679832891
+    },
+    "ENCHANTMENT_CASTER_6": {
+        "buy": 43544.393749999996,
+        "sell": 10.822083333333333
+    },
+    "BEATING_HEART": {
+        "buy": 55999.978125,
+        "sell": 9002.225192802056
+    },
+    "ROUGH_AMBER_GEM": {
+        "buy": 7.188305737753768,
+        "sell": 2.3
+    },
+    "ENCHANTMENT_PROSECUTE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSECUTE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSECUTE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSECUTE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "AMALGAMATED_CRIMSONITE": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SUPER_MAGIC_MUSHROOM_SOUP": {
+        "buy": 9867.126129346767,
+        "sell": 7081.254466769706
+    },
+    "FINE_AMBER_GEM": {
+        "buy": 32747.396205487446,
+        "sell": 31135.360211094743
+    },
+    "ENCHANTED_QUARTZ": {
+        "buy": 3682.5363320384376,
+        "sell": 3436.7446878865344
+    },
+    "ENCHANTED_COAL_BLOCK": {
+        "buy": 147999.66825396827,
+        "sell": 143166.4502057613
+    },
+    "ENDER_PEARL": {
+        "buy": 8.019645167172138,
+        "sell": 3.000166221613427
+    },
+    "LESSER_SOULFLOW_ENGINE": {
+        "buy": 3999997.9733333336,
+        "sell": 2229406.764788732
+    },
+    "ENCHANTED_GLACITE": {
+        "buy": 4016.490571994553,
+        "sell": 2971.3
+    },
+    "LARGE_WALNUT": {
+        "buy": 722272.588888889,
+        "sell": 174798.0149797571
+    },
+    "FLAWED_JADE_GEM": {
+        "buy": 816.0489436619719,
+        "sell": 399.3078763147483
+    },
+    "TOIL_LOG": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SLUDGE_JUICE": {
+        "buy": 1941.341000359954,
+        "sell": 1717.9688863400277
+    },
+    "BONZO_FRAGMENT": {
+        "buy": 323,
+        "sell": 100
+    },
+    "SUGAR_CANE": {
+        "buy": 5.489539686858444,
+        "sell": 2.5772153018092636
+    },
+    "ENCHANTMENT_RESPITE_5": {
+        "buy": 1049993.4666666666,
+        "sell": 261683.34
+    },
+    "ENCHANTMENT_RESPITE_3": {
+        "buy": 103030.46666666667,
+        "sell": 12596.021794871795
+    },
+    "ENCHANTMENT_RESPITE_4": {
+        "buy": 300000,
+        "sell": 135000
+    },
+    "ENCHANTMENT_RESPITE_1": {
+        "buy": 145516.6,
+        "sell": 6000.9875362318835
+    },
+    "ENCHANTMENT_RESPITE_2": {
+        "buy": 67807.3,
+        "sell": 3280.2726224783864
+    },
+    "TESSELLATED_ENDER_PEARL": {
+        "buy": 4348133.398684211,
+        "sell": 900000.4563157894
+    },
+    "ENCHANTED_RAW_BEEF": {
+        "buy": 730.9968657750467,
+        "sell": 588.7634740689729
+    },
+    "AOTE_STONE": {
+        "buy": 5886048.35,
+        "sell": 4486047.281481482
+    },
+    "RABBIT_HIDE": {
+        "buy": 180.8,
+        "sell": 11.4
+    },
+    "INFERNO_FUEL_BLOCK": {
+        "buy": 65668.7,
+        "sell": 51000.2014614813
+    },
+    "ENCHANTMENT_OVERLOAD_5": {
+        "buy": 14949986.5,
+        "sell": 11506392.1
+    },
+    "ENCHANTMENT_OVERLOAD_4": {
+        "buy": 11962573.299999999,
+        "sell": 2101032.3499999996
+    },
+    "ENCHANTMENT_OVERLOAD_3": {
+        "buy": 5899995.3,
+        "sell": 1950007.9
+    },
+    "ENCHANTMENT_OVERLOAD_2": {
+        "buy": 3399998.2,
+        "sell": 850193.1666666666
+    },
+    "ENCHANTMENT_OVERLOAD_1": {
+        "buy": 882302.3928571428,
+        "sell": 735385.8899103139
+    },
+    "DARK_BAIT": {
+        "buy": 1313.3946721311474,
+        "sell": 1034.9726739529237
+    },
+    "ENCHANTED_PUMPKIN": {
+        "buy": 1610.8157723770005,
+        "sell": 1550.0622061629654
+    },
+    "ENCHANTED_COOKED_FISH": {
+        "buy": 151387.0345053148,
+        "sell": 145659.44319148935
+    },
+    "OBSIDIAN": {
+        "buy": 10.431045024541858,
+        "sell": 7.651367358055005
+    },
+    "PET_ITEM_EXP_SHARE_DROP": {
+        "buy": 3668490.6,
+        "sell": 3321029.566
+    },
+    "STARFALL": {
+        "buy": 1985.212235881675,
+        "sell": 1771.6207113988867
+    },
+    "SECOND_MASTER_STAR": {
+        "buy": 24126880.25,
+        "sell": 21093342.600000005
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_6": {
+        "buy": 40499.350000000006,
+        "sell": 2.5
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ROUGH_ONYX_GEM": {
+        "buy": 3.7930356408764787,
+        "sell": 0.6
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_7": {
+        "buy": 3269997.6,
+        "sell": 1200002.1
+    },
+    "ENCHANTMENT_HARDENED_MANA_10": {
+        "buy": 33333333,
+        "sell": 3874447
+    },
+    "FLAWLESS_ONYX_GEM": {
+        "buy": 1708418.0961538462,
+        "sell": 1471747.023584906
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_2": {
+        "buy": 3.05,
+        "sell": 0
+    },
+    "ENTROPY_SUPPRESSOR": {
+        "buy": 18359996.5,
+        "sell": 8890403.11
+    },
+    "ENCHANTMENT_ULTIMATE_REND_3": {
+        "buy": 4500999.8,
+        "sell": 10000.6
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_1": {
+        "buy": 1,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_REND_2": {
+        "buy": 1322464.5,
+        "sell": 306889.8184210526
+    },
+    "ENCHANTMENT_ULTIMATE_REND_1": {
+        "buy": 669999.64,
+        "sell": 364158.0767857143
+    },
+    "ENCHANTED_POPPY": {
+        "buy": 2311.2655680224407,
+        "sell": 819.8
+    },
+    "GLOWSTONE_DUST_DISTILLATE": {
+        "buy": 6715.5,
+        "sell": 4632.93532467972
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_5": {
+        "buy": 98999.04848484849,
+        "sell": 307.9
+    },
+    "ENCHANTMENT_ULTIMATE_REND_5": {
+        "buy": 13500000,
+        "sell": 100001.7
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_4": {
+        "buy": 199999.7,
+        "sell": 5.2
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_3": {
+        "buy": 0,
+        "sell": 1
+    },
+    "ENCHANTMENT_ULTIMATE_REND_4": {
+        "buy": 8999999.9,
+        "sell": 100000.70588235294
+    },
+    "DWARVEN_OS_GEMSTONE_GRAHAMS": {
+        "buy": 871609.9925925925,
+        "sell": 687663.2205882353
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BAZAAR_COOKIE": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "DISPLACED_LEECH": {
+        "buy": 313096.5629166666,
+        "sell": 181921.58311688312
+    },
+    "BROWN_MUSHROOM": {
+        "buy": 21.713901350981473,
+        "sell": 5.330784163774339
+    },
+    "FLAWLESS_PERIDOT_GEM": {
+        "buy": 4619904.762222223,
+        "sell": 4063669.676923077
+    },
+    "ENCHANTMENT_HARVESTING_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HARVESTING_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HARVESTING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "CARROT_ITEM": {
+        "buy": 4,
+        "sell": 1.8097633120125225
+    },
+    "ENCHANTMENT_HARVESTING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HARVESTING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "UMBER": {
+        "buy": 90.47574722301734,
+        "sell": 58.37665243070262
+    },
+    "EXP_BOTTLE": {
+        "buy": 67.6847801578354,
+        "sell": 18.31078766480111
+    },
+    "MOLTEN_CUBE": {
+        "buy": 104979.6,
+        "sell": 16.06388888888889
+    },
+    "HEALING_TISSUE": {
+        "buy": 30158.27090909091,
+        "sell": 8477.95074074074
+    },
+    "ENCHANTED_RABBIT_HIDE": {
+        "buy": 19468.974964438123,
+        "sell": 17091.41779396462
+    },
+    "ENCHANTMENT_HARVESTING_6": {
+        "buy": 2871079.805208333,
+        "sell": 2827652.3
+    },
+    "SQUEAKY_TOY": {
+        "buy": 84957.44736842107,
+        "sell": 12751.246681415929
+    },
+    "WATER_ORB": {
+        "buy": 899999.3888888889,
+        "sell": 200081.7681227863
+    },
+    "GLACITE_JEWEL": {
+        "buy": 171110.5909090909,
+        "sell": 160000.8624254473
+    },
+    "INFERNO_VERTEX": {
+        "buy": 6195907.947222222,
+        "sell": 6000001.395833333
+    },
+    "RUSTY_ANCHOR": {
+        "buy": 13719998.1,
+        "sell": 10005.135915492958
+    },
+    "WEAK_WOLF_CATALYST": {
+        "buy": 64651.2,
+        "sell": 50000.2
+    },
+    "FLAWED_AMETHYST_GEM": {
+        "buy": 689.6927709209277,
+        "sell": 383.7346578372596
+    },
+    "PERFECT_JADE_GEM": {
+        "buy": 16530559.795833334,
+        "sell": 15974917.56046512
+    },
+    "FOURTH_MASTER_STAR": {
+        "buy": 96711122.1,
+        "sell": 92725939.80909091
+    },
+    "ENCHANTED_BIRCH_LOG": {
+        "buy": 608.5325825683732,
+        "sell": 415.9
+    },
+    "ENCHANTED_GUNPOWDER": {
+        "buy": 2989.8436012877305,
+        "sell": 2501.1771998392805
+    },
+    "REFINED_AMBER": {
+        "buy": 1049496.5591836737,
+        "sell": 50001.4
+    },
+    "ENCHANTED_SUGAR": {
+        "buy": 729.7974202373879,
+        "sell": 642.9141358205965
+    },
+    "CACTUS": {
+        "buy": 2.221759504736246,
+        "sell": 1.1
+    },
+    "DUNG": {
+        "buy": 82712.9,
+        "sell": 62182.209837837836
+    },
+    "ENCHANTED_RAW_SALMON": {
+        "buy": 1696.1390455991518,
+        "sell": 1469.0106074149749
+    },
+    "BOBBIN_SCRIPTURES": {
+        "buy": 47609.45,
+        "sell": 30044.121107266437
+    },
+    "ENCHANTED_EMERALD": {
+        "buy": 789.9826957719615,
+        "sell": 720.85039080715
+    },
+    "RED_MUSHROOM": {
+        "buy": 17.25772459363523,
+        "sell": 5.509984616624021
+    },
+    "GRAND_EXP_BOTTLE": {
+        "buy": 5399.377408775218,
+        "sell": 5203.219027387411
+    },
+    "MUTTON": {
+        "buy": 134,
+        "sell": 70.72808301409306
+    },
+    "ENCHANTMENT_DEDICATION_2": {
+        "buy": 2570461.88,
+        "sell": 1374325.9
+    },
+    "ENCHANTMENT_DEDICATION_1": {
+        "buy": 1134857.7131578948,
+        "sell": 954051.282051282
+    },
+    "ENCHANTMENT_DEDICATION_4": {
+        "buy": 105000000,
+        "sell": 91325373.19545454
+    },
+    "ENCHANTMENT_DEDICATION_3": {
+        "buy": 4502170.858333334,
+        "sell": 1160948.1
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_2": {
+        "buy": 345001.7,
+        "sell": 222311.7141164857
+    },
+    "SPIDER_EYE": {
+        "buy": 17.6,
+        "sell": 4.054864584354876
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_1": {
+        "buy": 171995.12105263156,
+        "sell": 148336.0654848355
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_4": {
+        "buy": 2636615.66,
+        "sell": 1050003.1454545455
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_3": {
+        "buy": 1077439.5896551725,
+        "sell": 596238.325
+    },
+    "BEJEWELED_HANDLE": {
+        "buy": 381688,
+        "sell": 317488.8279661017
+    },
+    "LARGE_ENCHANTED_CHEST": {
+        "buy": 340374.70714285714,
+        "sell": 253818.79930981592
+    },
+    "ENCHANTED_NETHERRACK": {
+        "buy": 180.9312083997375,
+        "sell": 121.79999999999998
+    },
+    "JADERALD": {
+        "buy": 4081770.7125,
+        "sell": 3736056.024691358
+    },
+    "ENCHANTMENT_TRUE_PROTECTION_1": {
+        "buy": 970998.8,
+        "sell": 30001.283783783783
+    },
+    "CORRUPT_SOIL": {
+        "buy": 278046.372,
+        "sell": 235165.71669980118
+    },
+    "PRISMARINE_CRYSTALS": {
+        "buy": 222.7126280119072,
+        "sell": 43.61802462039566
+    },
+    "RARE_DIAMOND": {
+        "buy": 1294.0533333333333,
+        "sell": 0
+    },
+    "DWARVEN_OS_BLOCK_BRAN": {
+        "buy": 1599998.2,
+        "sell": 1067880.7444444443
+    },
+    "ICE": {
+        "buy": 8.298032776916296,
+        "sell": 2.6222593914404912
+    },
+    "GLOSSY_GEMSTONE": {
+        "buy": 8685999.093137255,
+        "sell": 8350000.1
+    },
+    "TIGER_SHARK_TOOTH": {
+        "buy": 42587.5,
+        "sell": 21790.600435729848
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_6": {
+        "buy": 43681.541304347826,
+        "sell": 2505.1998137802607
+    },
+    "ENCHANTMENT_SMARTY_PANTS_3": {
+        "buy": 5124999.9,
+        "sell": 15.6
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_5": {
+        "buy": 3099993.7,
+        "sell": 2612651.187179487
+    },
+    "ENCHANTMENT_SMARTY_PANTS_2": {
+        "buy": 2909596.3,
+        "sell": 1.6
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMARTY_PANTS_5": {
+        "buy": 12008213.2,
+        "sell": 7960000.1
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMARTY_PANTS_4": {
+        "buy": 11999999.1,
+        "sell": 3510460.957142857
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_TOOTH": {
+        "buy": 152311.08826864368,
+        "sell": 138648.5156862745
+    },
+    "THE_ART_OF_PEACE": {
+        "buy": 51136749.1,
+        "sell": 48000001.9
+    },
+    "ENCHANTMENT_SMARTY_PANTS_1": {
+        "buy": 591514.805882353,
+        "sell": 451007.65192982455
+    },
+    "HYPER_CATALYST": {
+        "buy": 222126.25044694907,
+        "sell": 211001.52372921057
+    },
+    "VOLTA": {
+        "buy": 8148.690261813538,
+        "sell": 5071.10190149994
+    },
+    "RABBIT_FOOT": {
+        "buy": 14.996407653883596,
+        "sell": 3.3
+    },
+    "SUPERLITE_MOTOR": {
+        "buy": 50159.953941267384,
+        "sell": 35633.87889808658
+    },
+    "REDSTONE": {
+        "buy": 5.890941105128187,
+        "sell": 2.8
+    },
+    "BRAIDED_GRIFFIN_FEATHER": {
+        "buy": 15565210.6,
+        "sell": 12873449.1
+    },
+    "SUSPICIOUS_SCRAP": {
+        "buy": 213885.5743697479,
+        "sell": 208254.07408536584
+    },
+    "SPIRIT_WING": {
+        "buy": 6247536.05,
+        "sell": 5900002.713333334
+    },
+    "PET_ITEM_CHOCOLATE_SYRINGE": {
+        "buy": 132295.56,
+        "sell": 47392.48157894737
+    },
+    "BLAZEN_SPHERE": {
+        "buy": 88953.86,
+        "sell": 344.1
+    },
+    "SPOOKY_WATER_ORB": {
+        "buy": 5999997.351219512,
+        "sell": 1870911
+    },
+    "THE_ART_OF_WAR": {
+        "buy": 14291534.645833334,
+        "sell": 13231439.62419355
+    },
+    "ENCHANTMENT_LURE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LURE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SLIME_BALL": {
+        "buy": 35.8369451491463,
+        "sell": 24.749387336947553
+    },
+    "ENCHANTMENT_LURE_6": {
+        "buy": 39999.7,
+        "sell": 5.4
+    },
+    "ENCHANTMENT_LURE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LURE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LURE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "HOLY_FRAGMENT": {
+        "buy": 13045.51329394387,
+        "sell": 12333.321549559178
+    },
+    "SNOW_BALL": {
+        "buy": 6.797672547554738,
+        "sell": 0.3
+    },
+    "ENCHANTED_WOOL": {
+        "buy": 309.01499866826475,
+        "sell": 265.0326043189019
+    },
+    "ENCHANTED_EGG": {
+        "buy": 5043.431313131313,
+        "sell": 4000.6
+    },
+    "GLEAMING_CRYSTAL": {
+        "buy": 314999999.9,
+        "sell": 68397005.62105262
+    },
+    "SUPERB_CARROT_CANDY": {
+        "buy": 2323285.7964285715,
+        "sell": 2016172.1
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_8": {
+        "buy": 13009015.1,
+        "sell": 2170879.5
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_9": {
+        "buy": 29999998.7,
+        "sell": 2810020.27
+    },
+    "FINE_JADE_GEM": {
+        "buy": 34757.85623501199,
+        "sell": 32141.035090042373
+    },
+    "FLAWED_RUBY_GEM": {
+        "buy": 498.6,
+        "sell": 278.33171181293125
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_4": {
+        "buy": 461328.4,
+        "sell": 200006.7632352941
+    },
+    "ENCHANTMENT_MAGNET_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_5": {
+        "buy": 2636184.0166666666,
+        "sell": 647020.634516129
+    },
+    "RAW_CHICKEN": {
+        "buy": 220.65658416776876,
+        "sell": 48.7
+    },
+    "ENCHANTMENT_MAGNET_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SORROW": {
+        "buy": 145558.29032006243,
+        "sell": 127369.1644680851
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_6": {
+        "buy": 2819713.534782609,
+        "sell": 1215195.2
+    },
+    "ENCHANTMENT_MAGNET_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_7": {
+        "buy": 6586990.764285714,
+        "sell": 1294062.2523809525
+    },
+    "ENCHANTMENT_MAGNET_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "FLAWLESS_JASPER_GEM": {
+        "buy": 6915744.936708861,
+        "sell": 6256455.721399178
+    },
+    "ENCHANTMENT_MAGNET_6": {
+        "buy": 0.1,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_1": {
+        "buy": 154998.05,
+        "sell": 43165.28111658456
+    },
+    "ENCHANTMENT_MAGNET_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_2": {
+        "buy": 144824.7,
+        "sell": 22017.224683544304
+    },
+    "LUSH_BERBERIS": {
+        "buy": 419.71274120317827,
+        "sell": 159.14278955160015
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_3": {
+        "buy": 250034.9,
+        "sell": 64066.22128240109
+    },
+    "ENCHANTMENT_PESTERMINATOR_1": {
+        "buy": 830927.3973913044,
+        "sell": 767563.623338257
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_7": {
+        "buy": 3780499.8,
+        "sell": 500002.4666666666
+    },
+    "ENCHANTMENT_PESTERMINATOR_2": {
+        "buy": 2397288.696666667,
+        "sell": 1210576.0333333334
+    },
+    "ENCHANTMENT_CHAMPION_10": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PESTERMINATOR_3": {
+        "buy": 5729141.1,
+        "sell": 3097171.57037037
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_6": {
+        "buy": 516.6666666666666,
+        "sell": 1.1
+    },
+    "ENCHANTMENT_PESTERMINATOR_4": {
+        "buy": 8999998.5,
+        "sell": 4644377.67
+    },
+    "ENCHANTED_SHARK_FIN": {
+        "buy": 24996.813567110035,
+        "sell": 13457.9
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PESTERMINATOR_5": {
+        "buy": 14999996.479069771,
+        "sell": 5726591.718045114
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "INK_SACK": {
+        "buy": 1685.3392293114339,
+        "sell": 1264.2416597452025
+    },
+    "CRYSTAL_FRAGMENT": {
+        "buy": 164044.14328358212,
+        "sell": 156873.14543630893
+    },
+    "ENCHANTED_REDSTONE_BLOCK": {
+        "buy": 25494.04623504574,
+        "sell": 24432.578694663636
+    },
+    "DIVAN_POWDER_COATING": {
+        "buy": 313892380.7,
+        "sell": 286074122.12
+    },
+    "INFERNO_APEX": {
+        "buy": 118999999.6,
+        "sell": 105000002.02000001
+    },
+    "ENCHANTED_REDSTONE_LAMP": {
+        "buy": 242854.20000000004,
+        "sell": 586.727797833935
+    },
+    "TREASURITE": {
+        "buy": 44965.73214695752,
+        "sell": 42386.2
+    },
+    "PERFECT_OPAL_GEM": {
+        "buy": 20999999.75,
+        "sell": 16209370.234090907
+    },
+    "MELON": {
+        "buy": 2,
+        "sell": 0.9
+    },
+    "DIAMONITE": {
+        "buy": 2699503.834,
+        "sell": 2028055.5
+    },
+    "GLOWING_MUSHROOM": {
+        "buy": 722.6616260162601,
+        "sell": 456.1293527215563
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_4": {
+        "buy": 9000000,
+        "sell": 6000002
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_3": {
+        "buy": 6199999.2,
+        "sell": 2514060.5
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_5": {
+        "buy": 18301064.2,
+        "sell": 16171354.4
+    },
+    "ENCHANTED_IRON_BLOCK": {
+        "buy": 247765.61681514475,
+        "sell": 240016.33254003557
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_2": {
+        "buy": 2999999.7000000007,
+        "sell": 1090588.3
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_1": {
+        "buy": 1124400.6945945946,
+        "sell": 706652.7853333334
+    },
+    "BONE": {
+        "buy": 15.6,
+        "sell": 9.03093875389535
+    },
+    "POISONOUS_POTATO": {
+        "buy": 99.62619270346117,
+        "sell": 3.2
+    },
+    "KISMET_FEATHER": {
+        "buy": 1458326.4,
+        "sell": 1424046.492086331
+    },
+    "REVENANT_FLESH": {
+        "buy": 66.59576727134218,
+        "sell": 24.16751088586159
+    },
+    "VOLCANIC_ROCK": {
+        "buy": 2396896.4,
+        "sell": 1830005.4444444445
+    },
+    "ENCHANTED_GLOWSTONE": {
+        "buy": 55879.67855243722,
+        "sell": 49147.55592972182
+    },
+    "OBSIDIAN_TABLET": {
+        "buy": 3212403.146666667,
+        "sell": 1245579.5470588235
+    },
+    "ESSENCE_WITHER": {
+        "buy": 2708.1691160403993,
+        "sell": 2608.38623020042
+    },
+    "ENCHANTMENT_CHARM_2": {
+        "buy": 175641.1,
+        "sell": 2005.2
+    },
+    "ENCHANTMENT_CHARM_3": {
+        "buy": 0,
+        "sell": 3008
+    },
+    "ENCHANTMENT_CHARM_1": {
+        "buy": 32572.4,
+        "sell": 15231.6
+    },
+    "BLAZE_ROD": {
+        "buy": 30.020502386438444,
+        "sell": 15
+    },
+    "ENCHANTMENT_CHARM_4": {
+        "buy": 9999998.4,
+        "sell": 51665.416666666664
+    },
+    "YOUNG_FRAGMENT": {
+        "buy": 11913.586476190476,
+        "sell": 10801.459666145018
+    },
+    "ENCHANTMENT_CHARM_5": {
+        "buy": 1043957.63,
+        "sell": 625651
+    },
+    "MITHRIL_PLATE": {
+        "buy": 6571579.013235293,
+        "sell": 6316914.162068966
+    },
+    "BLOOD_SOAKED_COINS": {
+        "buy": 5656564.4,
+        "sell": 2000003.1443514642
+    },
+    "REFINED_MINERAL": {
+        "buy": 113052.77510688364,
+        "sell": 87679.59115809707
+    },
+    "GUARDIAN_LUCKY_BLOCK": {
+        "buy": 563553.9444444445,
+        "sell": 239272.83695652173
+    },
+    "CHYME": {
+        "buy": 1649999.9937500001,
+        "sell": 860000.3
+    },
+    "DIVAN_FRAGMENT": {
+        "buy": 799999.0206896551,
+        "sell": 750900.1813186813
+    },
+    "ROUGH_RUBY_GEM": {
+        "buy": 15.9,
+        "sell": 1.5089455285401232
+    },
+    "ENCHANTMENT_IMPALING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_IMPALING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOBLIN_EGG_BLUE": {
+        "buy": 894621.2000000001,
+        "sell": 871109.9
+    },
+    "ENCHANTMENT_IMPALING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "CATALYST": {
+        "buy": 168778.8,
+        "sell": 159813.2190879479
+    },
+    "REFINED_DARK_CACAO_TRUFFLE": {
+        "buy": 4261676.446875,
+        "sell": 3384964.371250001
+    },
+    "ENCHANTED_INK_SACK": {
+        "buy": 109840,
+        "sell": 99012.22052980131
+    },
+    "JERRY_STONE": {
+        "buy": 29890.8,
+        "sell": 1504.4
+    },
+    "MOLTEN_POWDER": {
+        "buy": 261711.6013778706,
+        "sell": 205837.55684380032
+    },
+    "FLAWLESS_SAPPHIRE_GEM": {
+        "buy": 2698421.925,
+        "sell": 2549678.899088146
+    },
+    "MAGMA_URCHIN": {
+        "buy": 7030949.296470589,
+        "sell": 6289873.892682926
+    },
+    "PERFECT_AQUAMARINE_GEM": {
+        "buy": 15467991.5,
+        "sell": 13410366.35531915
+    },
+    "JACOBS_TICKET": {
+        "buy": 20882.50643607706,
+        "sell": 16252.005056701373
+    },
+    "ENCHANTMENT_QUANTUM_4": {
+        "buy": 1199999.9,
+        "sell": 10501.3
+    },
+    "BAT_FIREWORK": {
+        "buy": 237000,
+        "sell": 196789.9
+    },
+    "ENCHANTMENT_QUANTUM_5": {
+        "buy": 1999997.7923076923,
+        "sell": 737971.8607142858
+    },
+    "ARACHNE_FRAGMENT": {
+        "buy": 17552.23611111111,
+        "sell": 13036.97156774684
+    },
+    "ABSOLUTE_ENDER_PEARL": {
+        "buy": 12999.935066864786,
+        "sell": 10093.207685537682
+    },
+    "ENCHANTMENT_REPLENISH_1": {
+        "buy": 1321098.845038168,
+        "sell": 1139490.36
+    },
+    "ENCHANTMENT_QUANTUM_3": {
+        "buy": 359997.8,
+        "sell": 206956.47355371903
+    },
+    "ENCHANTED_ENDER_PEARL": {
+        "buy": 210.58731006000153,
+        "sell": 119.37526569401689
+    },
+    "ARROW_BUNDLE_MAGMA": {
+        "buy": 394405.19423076924,
+        "sell": 116749.89308176101
+    },
+    "SPIKED_BAIT": {
+        "buy": 749.9909920403805,
+        "sell": 27.019807916181605
+    },
+    "ENCHANTED_FERMENTED_SPIDER_EYE": {
+        "buy": 112998.96143497758,
+        "sell": 107010.83724228496
+    },
+    "FROZEN_BAIT": {
+        "buy": 3449.3650620779786,
+        "sell": 3105.6226236886314
+    },
+    "BLESSED_FRUIT": {
+        "buy": 1099994.1561403507,
+        "sell": 957204.8166666668
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_5": {
+        "buy": 16499998.9,
+        "sell": 11165000.833333334
+    },
+    "VERY_CRUDE_GABAGOOL": {
+        "buy": 94323.16647443292,
+        "sell": 92270.75966837358
+    },
+    "ENCHANTMENT_TURBO_WHEAT_3": {
+        "buy": 203688.8,
+        "sell": 6258.909885931559
+    },
+    "ENCHANTMENT_TURBO_WHEAT_4": {
+        "buy": 456012.5,
+        "sell": 60125
+    },
+    "ENCHANTMENT_SILK_TOUCH_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_WHEAT_1": {
+        "buy": 28766.55,
+        "sell": 3624.4708196721313
+    },
+    "ENCHANTMENT_TURBO_WHEAT_2": {
+        "buy": 0,
+        "sell": 106.1
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_3": {
+        "buy": 0,
+        "sell": 967647.511111111
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_4": {
+        "buy": 0,
+        "sell": 3230069.0142857144
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_1": {
+        "buy": 849813.8500000001,
+        "sell": 636978.5667105264
+    },
+    "ENCHANTMENT_TURBO_WHEAT_5": {
+        "buy": 999999.9,
+        "sell": 300000.15
+    },
+    "EXPORTABLE_CARROTS": {
+        "buy": 7499.231356898519,
+        "sell": 6577.1
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_2": {
+        "buy": 0,
+        "sell": 308719.4222222222
+    },
+    "NULL_OVOID": {
+        "buy": 94402.79200258675,
+        "sell": 80694
+    },
+    "GOLD_INGOT": {
+        "buy": 4.4987291225219845,
+        "sell": 1.227864056269162
+    },
+    "ENCHANTMENT_SUGAR_RUSH_3": {
+        "buy": 2524251.990638298,
+        "sell": 2000000
+    },
+    "ENCHANTMENT_SUGAR_RUSH_2": {
+        "buy": 2341998.5,
+        "sell": 470001.4
+    },
+    "FLAWLESS_CITRINE_GEM": {
+        "buy": 1531115.3524509803,
+        "sell": 1400006.2776119402
+    },
+    "ENCHANTED_IRON": {
+        "buy": 2081.8418604651165,
+        "sell": 1459.269663311889
+    },
+    "ENCHANTMENT_SUGAR_RUSH_1": {
+        "buy": 514526.65514018683,
+        "sell": 334006.34705882357
+    },
+    "ENCHANTED_HAY_BLOCK": {
+        "buy": 0,
+        "sell": 0
+    },
+    "HEMOVIBE": {
+        "buy": 347,
+        "sell": 166.68132279584842
+    },
+    "ENCHANTED_TITANIUM": {
+        "buy": 13109.531408238676,
+        "sell": 11725.806527698753
+    },
+    "DWARVEN_OS_METALLIC_MINIS": {
+        "buy": 5412062.780952381,
+        "sell": 4641982.2169811325
+    },
+    "SPOOKY_BAIT": {
+        "buy": 233.99351712614865,
+        "sell": 108.2458499698065
+    },
+    "EMERALD": {
+        "buy": 11.990200847324651,
+        "sell": 3.41268648018648
+    },
+    "TWILIGHT_ARROW_POISON": {
+        "buy": 3611.193947621967,
+        "sell": 2904.233206383217
+    },
+    "ENCHANTED_RABBIT_FOOT": {
+        "buy": 1094.1853228649254,
+        "sell": 798.2209168231299
+    },
+    "POTATO_SPREADING": {
+        "buy": 1400,
+        "sell": 700.1
+    },
+    "ENCHANTED_ICE": {
+        "buy": 693.9442584269664,
+        "sell": 490.5
+    },
+    "ARACHNE_KEEPER_FRAGMENT": {
+        "buy": 1085.4708518930959,
+        "sell": 311.1738499396
+    },
+    "ENCHANTMENT_GROWTH_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GROWTH_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GREEN_GIFT": {
+        "buy": 11699.464216738197,
+        "sell": 9011.5
+    },
+    "ENCHANTMENT_GROWTH_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GROWTH_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SKELETON_KEY": {
+        "buy": 36581388.054545455,
+        "sell": 35500000.660000004
+    },
+    "ENCHANTMENT_GROWTH_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GROWTH_6": {
+        "buy": 7078721.927027027,
+        "sell": 6557744.075
+    },
+    "FLAWLESS_AMETHYST_GEM": {
+        "buy": 2957952.3839080464,
+        "sell": 2491088.1810218985
+    },
+    "RED_NOSE": {
+        "buy": 144.75172413793103,
+        "sell": 0
+    },
+    "NULL_EDGE": {
+        "buy": 741482,
+        "sell": 333626.80432098766
+    },
+    "ENCHANTMENT_GROWTH_7": {
+        "buy": 165188739.1,
+        "sell": 152652485.3970588
+    },
+    "THORN_FRAGMENT": {
+        "buy": 4995.9504230960665,
+        "sell": 363.8
+    },
+    "PACKED_ICE": {
+        "buy": 105.99782903663501,
+        "sell": 45.3
+    },
+    "YELLOW_FLOWER": {
+        "buy": 182.6865089209045,
+        "sell": 20.3
+    },
+    "CLIPPED_WINGS": {
+        "buy": 1110.9884,
+        "sell": 24.558273381294963
+    },
+    "REVENANT_CATALYST": {
+        "buy": 21999.87443820225,
+        "sell": 5604.4
+    },
+    "WITHER_CATALYST": {
+        "buy": 1163068.3,
+        "sell": 1063728.8976133652
+    },
+    "HAMSTER_WHEEL": {
+        "buy": 46485.30135600081,
+        "sell": 39062.99825747035
+    },
+    "PESTHUNTING_GUIDE": {
+        "buy": 19029275.2,
+        "sell": 15558546.028971964
+    },
+    "ENCHANTED_COAL": {
+        "buy": 1517.3953793842284,
+        "sell": 1387.2265366798363
+    },
+    "MAGMA_FISH_SILVER": {
+        "buy": 28221.716326530615,
+        "sell": 25100.20145616028
+    },
+    "SULPHURIC_COAL": {
+        "buy": 7427.097498776308,
+        "sell": 5506.2
+    },
+    "FLAWLESS_OPAL_GEM": {
+        "buy": 2805759.3430379746,
+        "sell": 2258675.494117647
+    },
+    "ESSENCE_UNDEAD": {
+        "buy": 736.6468010525326,
+        "sell": 678.3618696014097
+    },
+    "DRAGON_CLAW": {
+        "buy": 50119.35108695653,
+        "sell": 16966.913176895305
+    },
+    "DAEDALUS_STICK": {
+        "buy": 2286798.604109589,
+        "sell": 1814815.031111111
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_1": {
+        "buy": 126999994.87500003,
+        "sell": 118286382.27272727
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_5": {
+        "buy": 4199999.988888889,
+        "sell": 3720545.633333334
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_4": {
+        "buy": 2493453.9,
+        "sell": 1477990.03
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_3": {
+        "buy": 1789998.292,
+        "sell": 619190.4202898551
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_5": {
+        "buy": 0,
+        "sell": 426636363.6363636
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_2": {
+        "buy": 471153.27857142856,
+        "sell": 100000.7
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_4": {
+        "buy": 0,
+        "sell": 65419230.788461536
+    },
+    "PET_ITEM_PURE_MITHRIL_GEM": {
+        "buy": 1052790.9545454544,
+        "sell": 676658.301980198
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_1": {
+        "buy": 309071.8,
+        "sell": 239347.3313993174
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_3": {
+        "buy": 0,
+        "sell": 1293372.4186813186
+    },
+    "JUNGLE_HEART": {
+        "buy": 4998.994634146342,
+        "sell": 99.90416666666667
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_2": {
+        "buy": 0,
+        "sell": 174467000.2
+    },
+    "LUCKY_DICE": {
+        "buy": 1456992.9,
+        "sell": 515000
+    },
+    "FOUL_FLESH": {
+        "buy": 25005.009842154133,
+        "sell": 24101.261633222282
+    },
+    "RAW_BEEF": {
+        "buy": 14.362229946327023,
+        "sell": 2.0123482319934216
+    },
+    "ENCHANTED_EYE_OF_ENDER": {
+        "buy": 6945.07239348805,
+        "sell": 5559.956622000624
+    },
+    "ECTOPLASM": {
+        "buy": 334998.85062761506,
+        "sell": 221149.97990392311
+    },
+    "PRECIOUS_PEARL": {
+        "buy": 449418.3941176471,
+        "sell": 337637.4081521739
+    },
+    "ENCHANTED_MYCELIUM": {
+        "buy": 1411.2820027046814,
+        "sell": 1256.7750432950786
+    },
+    "MAGMA_FISH_DIAMOND": {
+        "buy": 26666665.3,
+        "sell": 21241939.98387097
+    },
+    "RABBIT": {
+        "buy": 76.55492120302488,
+        "sell": 21.19056706404968
+    },
+    "ENCHANTED_HOPPER": {
+        "buy": 1352174.729468599,
+        "sell": 1225099.530516432
+    },
+    "FINE_FLOUR": {
+        "buy": 16554.02452012384,
+        "sell": 12681.228740302917
+    },
+    "GRIFFIN_FEATHER": {
+        "buy": 78059.42109270039,
+        "sell": 74014.17728308137
+    },
+    "HEMOBOMB": {
+        "buy": 646754.9908629442,
+        "sell": 548964.6193779904
+    },
+    "POLARVOID_BOOK": {
+        "buy": 2599997.6416666666,
+        "sell": 2163989.6533333333
+    },
+    "GIANT_FRAGMENT_DIAMOND": {
+        "buy": 999909.2750000001,
+        "sell": 913619.2941512127
+    },
+    "SOULFLOW": {
+        "buy": 39068.252238805966,
+        "sell": 37398.80675077041
+    },
+    "METAPHYSICAL_SERUM": {
+        "buy": 105000.1,
+        "sell": 62130.26592261905
+    },
+    "AVARICIOUS_CHALICE": {
+        "buy": 252525252.8,
+        "sell": 185000000.2
+    },
+    "MINNOW_BAIT": {
+        "buy": 28.75561825080261,
+        "sell": 3.3999999999999995
+    },
+    "ENCHANTED_MAGMA_CREAM": {
+        "buy": 3283.9264868807986,
+        "sell": 2782.1804681046356
+    },
+    "ENCHANTED_FIREWORK_ROCKET": {
+        "buy": 243267.8,
+        "sell": 158136.06209882072
+    },
+    "WITHER_BLOOD": {
+        "buy": 2306022.777777778,
+        "sell": 1948119.4499999997
+    },
+    "BLAZE_WAX": {
+        "buy": 1430713.5314960626,
+        "sell": 562025.4953488371
+    },
+    "ENCHANTMENT_EFFICIENCY_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EFFICIENCY_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "CHOCOLATE_CHIP": {
+        "buy": 551723.3928571428,
+        "sell": 361006.87281105993
+    },
+    "ENCHANTMENT_EFFICIENCY_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EFFICIENCY_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "FLAWLESS_JADE_GEM": {
+        "buy": 2716107.9445783133,
+        "sell": 1952491.2536412082
+    },
+    "HARD_STONE": {
+        "buy": 1.323975828469417,
+        "sell": 0.5
+    },
+    "ENCHANTMENT_EFFICIENCY_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SUPERBOOM_TNT": {
+        "buy": 35.96844357714824,
+        "sell": 8.763693437001981
+    },
+    "ENCHANTED_COOKED_MUTTON": {
+        "buy": 285235.3836799436,
+        "sell": 266982.4491425772
+    },
+    "ENCHANTMENT_EFFICIENCY_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EFFICIENCY_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "REFINED_TITANIUM": {
+        "buy": 539778.925748503,
+        "sell": 514327.20769230765
+    },
+    "FLAWED_ONYX_GEM": {
+        "buy": 315.6351013521834,
+        "sell": 217.0365804646914
+    },
+    "ENCHANTMENT_EFFICIENCY_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEATHER_FALLING_10": {
+        "buy": 488000,
+        "sell": 19001.65773195876
+    },
+    "ENCHANTMENT_EFFICIENCY_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SHINY_PRISM": {
+        "buy": 436237.37198067625,
+        "sell": 136036.7
+    },
+    "ENCHANTMENT_SMOLDERING_5": {
+        "buy": 92868985.6,
+        "sell": 42277063.1
+    },
+    "ENCHANTMENT_SMOLDERING_3": {
+        "buy": 298781856.4,
+        "sell": 1142507.5
+    },
+    "ENCHANTMENT_SMOLDERING_4": {
+        "buy": 80000000,
+        "sell": 20000000
+    },
+    "EGG": {
+        "buy": 35.141874156466706,
+        "sell": 11.661444003100174
+    },
+    "ENCHANTMENT_SMOLDERING_1": {
+        "buy": 4452431.375000001,
+        "sell": 3598445.8924657535
+    },
+    "FIRST_MASTER_STAR": {
+        "buy": 16499997.090909092,
+        "sell": 13734663.159090908
+    },
+    "ENCHANTMENT_SMOLDERING_2": {
+        "buy": 15999999.3,
+        "sell": 300004.6666666667
+    },
+    "UMBER_KEY": {
+        "buy": 3204902.0166666666,
+        "sell": 3074862.7999999993
+    },
+    "FLOWERING_BOUQUET": {
+        "buy": 14395.917647058825,
+        "sell": 9000.7545154185
+    },
+    "SPIRIT_LEAP": {
+        "buy": 249.93770144688858,
+        "sell": 113.27568580702612
+    },
+    "FINE_JASPER_GEM": {
+        "buy": 80938.4,
+        "sell": 73300.08595301476
+    },
+    "BOOK_OF_STATS": {
+        "buy": 2600726.438709677,
+        "sell": 1016736.4251046025
+    },
+    "ENCHANTED_CHARCOAL": {
+        "buy": 5144.6,
+        "sell": 1665.5613461960097
+    },
+    "SIMPLE_CARROT_CANDY": {
+        "buy": 0,
+        "sell": 2007.3983006535946
+    },
+    "ENCHANTED_DIAMOND": {
+        "buy": 1348.0784554509032,
+        "sell": 1280.1
+    },
+    "ENCHANTMENT_FEATHER_FALLING_20": {
+        "buy": 0,
+        "sell": 0
+    },
+    "OIL_BARREL": {
+        "buy": 4823.279285916691,
+        "sell": 3718.4642221613444
+    },
+    "GOLEM_POPPY": {
+        "buy": 255144.69999999998,
+        "sell": 148806.87884917518
+    },
+    "HORNS_OF_TORMENT": {
+        "buy": 1521093.1914285715,
+        "sell": 901001.5802325581
+    },
+    "ENCHANTMENT_CRITICAL_6": {
+        "buy": 639.5020179372198,
+        "sell": 0
+    },
+    "JERRY_BOX_GREEN": {
+        "buy": 202894.66056449487,
+        "sell": 157389.3
+    },
+    "ENCHANTMENT_CRITICAL_7": {
+        "buy": 124783547,
+        "sell": 106749181.8
+    },
+    "FARMING_FOR_DUMMIES": {
+        "buy": 1899996.1,
+        "sell": 1249257.0654676259
+    },
+    "POCKET_ICEBERG": {
+        "buy": 1583806.4866666668,
+        "sell": 456888.3416666666
+    },
+    "ENCHANTMENT_TOXOPHILITE_1": {
+        "buy": 5181798.1024390245,
+        "sell": 4042465.4421052625
+    },
+    "ENCHANTMENT_CRITICAL_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CRITICAL_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CRITICAL_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_GOLDEN_CARROT": {
+        "buy": 81047.6533810143,
+        "sell": 79096.52523754345
+    },
+    "ENCHANTED_TUNGSTEN": {
+        "buy": 13076.949406175772,
+        "sell": 10753.50520170859
+    },
+    "ENCHANTMENT_CRITICAL_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CRITICAL_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "MANA_DISINTEGRATOR": {
+        "buy": 95921.73414096916,
+        "sell": 43433.5
+    },
+    "ENCHANTMENT_AIMING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_AIMING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_AIMING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_AIMING_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_AIMING_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SHADOW_WARP_SCROLL": {
+        "buy": 281416993.5,
+        "sell": 270773116.11538464
+    },
+    "FLAWED_PERIDOT_GEM": {
+        "buy": 708,
+        "sell": 602.5363753067774
+    },
+    "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4": {
+        "buy": 85000000,
+        "sell": 30000001.9
+    },
+    "ENCHANTMENT_FROST_WALKER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_THUNDERBOLT_6": {
+        "buy": 2235898.1923076925,
+        "sell": 1110002.2
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_7": {
+        "buy": 5216777.1,
+        "sell": 1940634.642857143
+    },
+    "ENCHANTED_MYCELIUM_CUBE": {
+        "buy": 209016.3186567164,
+        "sell": 127291.81505393656
+    },
+    "FLAWED_JASPER_GEM": {
+        "buy": 1200.6646266142618,
+        "sell": 956.8783570182001
+    },
+    "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5": {
+        "buy": 190000000,
+        "sell": 38295456.7
+    },
+    "ENCHANTMENT_FROST_WALKER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ICE_COLD_4": {
+        "buy": 30000000,
+        "sell": 10835000.6
+    },
+    "EXPIRED_PUMPKIN": {
+        "buy": 5495.031271573841,
+        "sell": 2985.900222717149
+    },
+    "ENCHANTMENT_ICE_COLD_3": {
+        "buy": 90271500.4,
+        "sell": 2715009.303030303
+    },
+    "ENCHANTMENT_THUNDERBOLT_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GLACIAL_FRAGMENT": {
+        "buy": 72995.36611865618,
+        "sell": 55086.04001759015
+    },
+    "ENCHANTED_POISONOUS_POTATO": {
+        "buy": 2024.8033766233768,
+        "sell": 812.1
+    },
+    "ENCHANTMENT_ICE_COLD_5": {
+        "buy": 59999999.9,
+        "sell": 550001.16
+    },
+    "TUNGSTEN_PLATE": {
+        "buy": 12922789.25,
+        "sell": 12793340.2
+    },
+    "FLAWED_AMBER_GEM": {
+        "buy": 548.912676324819,
+        "sell": 376.8971916240073
+    },
+    "ENCHANTMENT_THUNDERBOLT_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_THUNDERBOLT_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ICE_COLD_2": {
+        "buy": 14999999.9,
+        "sell": 3138247.18
+    },
+    "ENCHANTMENT_THUNDERBOLT_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ICE_COLD_1": {
+        "buy": 3499999.521621622,
+        "sell": 2515965.2556249998
+    },
+    "ENCHANTMENT_THUNDERBOLT_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_1": {
+        "buy": 3878986.3874999997,
+        "sell": 3675775.0120879123
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_4": {
+        "buy": 40999997.5,
+        "sell": 2030004.71875
+    },
+    "ENCHANTMENT_COMPACT_10": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_5": {
+        "buy": 69999966.9,
+        "sell": 58630757.4
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_2": {
+        "buy": 9999997.6,
+        "sell": 2100001.7333333334
+    },
+    "PRISMARINE_SHARD": {
+        "buy": 7.893976945244958,
+        "sell": 0.7
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_3": {
+        "buy": 29999998.4,
+        "sell": 219525.6487804878
+    },
+    "PRECURSOR_APPARATUS": {
+        "buy": 921715.6,
+        "sell": 830000.3575342466
+    },
+    "SYNTHETIC_HEART": {
+        "buy": 271447.7166666667,
+        "sell": 240710.4223300971
+    },
+    "POWER_CRYSTAL": {
+        "buy": 695945.4771084336,
+        "sell": 630297.1245917862
+    },
+    "SHARK_FIN": {
+        "buy": 149.9718344955087,
+        "sell": 29.553602943375907
+    },
+    "WISE_FRAGMENT": {
+        "buy": 36703.867751703256,
+        "sell": 24769.438351822504
+    },
+    "PERFECT_PERIDOT_GEM": {
+        "buy": 30896007.585714284,
+        "sell": 29504445.679787233
+    },
+    "REFINED_MITHRIL": {
+        "buy": 577346.0075471699,
+        "sell": 482217.0025234742
+    },
+    "XXLARGE_ENCHANTED_CHEST": {
+        "buy": 4543027.388,
+        "sell": 4041524.3085427135
+    },
+    "FUEL_TANK": {
+        "buy": 690741.6062500001,
+        "sell": 547299.5784090909
+    },
+    "UMBER_PLATE": {
+        "buy": 12284465.427272726,
+        "sell": 11577783.64117647
+    },
+    "JALAPENO_BOOK": {
+        "buy": 4599999.9,
+        "sell": 2319393.169863014
+    },
+    "ENCHANTMENT_VENOMOUS_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "POTATO_ITEM": {
+        "buy": 2.6,
+        "sell": 1.5
+    },
+    "ENCHANTMENT_VENOMOUS_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_VENOMOUS_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_HUGE_MUSHROOM_1": {
+        "buy": 50649.8,
+        "sell": 49000.000518558954
+    },
+    "SKYMART_BROCHURE": {
+        "buy": 481280.122,
+        "sell": 337146.2303370786
+    },
+    "ENCHANTMENT_VENOMOUS_6": {
+        "buy": 75570905.3,
+        "sell": 58209064.6
+    },
+    "PRESUMED_GALLON_OF_RED_PAINT": {
+        "buy": 2158070.932876712,
+        "sell": 1000001.4132075472
+    },
+    "HEMOGLASS": {
+        "buy": 43088.6,
+        "sell": 38150.352852709475
+    },
+    "ENCHANTMENT_VENOMOUS_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_VENOMOUS_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ELECTRON_TRANSMITTER": {
+        "buy": 132263.48771929825,
+        "sell": 115358.22879105518
+    },
+    "ENCHANTED_COBBLESTONE": {
+        "buy": 352.8843471241723,
+        "sell": 269.7
+    },
+    "ENCHANTMENT_STRONG_MANA_10": {
+        "buy": 94999999.09999998,
+        "sell": 47499999.7
+    },
+    "ENCHANTED_HUGE_MUSHROOM_2": {
+        "buy": 50649.3,
+        "sell": 49124.40645339217
+    },
+    "GLOWY_CHUM_BAIT": {
+        "buy": 104.68955102040816,
+        "sell": 3.8
+    },
+    "STUFFED_CHILI_PEPPER": {
+        "buy": 2599999.9,
+        "sell": 1537019
+    },
+    "BUDGET_HOPPER": {
+        "buy": 14530.861956521738,
+        "sell": 4003.6995884773664
+    },
+    "ICE_BAIT": {
+        "buy": 3.969236856643722,
+        "sell": 0.2
+    },
+    "TERRY_SNOWGLOBE": {
+        "buy": 2101245.8101226995,
+        "sell": 1067005.2354838708
+    },
+    "FINE_ONYX_GEM": {
+        "buy": 19282.580849326256,
+        "sell": 18355.058881382873
+    },
+    "CHEESE_FUEL": {
+        "buy": 8499.980612689084,
+        "sell": 3990.84132799719
+    },
+    "KUUDRA_MANDIBLE": {
+        "buy": 999996.4173913044,
+        "sell": 620005.2538461537
+    },
+    "ENCHANTMENT_FEATHER_FALLING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEATHER_FALLING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "PUMPKIN_GUTS": {
+        "buy": 565998.6,
+        "sell": 360909.0705454545
+    },
+    "ENCHANTMENT_FEATHER_FALLING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEATHER_FALLING_7": {
+        "buy": 17547.608333333334,
+        "sell": 2.1
+    },
+    "BLAZE_ROD_DISTILLATE": {
+        "buy": 7562.865753424657,
+        "sell": 4057.613104265403
+    },
+    "ENCHANTMENT_FEATHER_FALLING_6": {
+        "buy": 1010.6500000000001,
+        "sell": 0
+    },
+    "WITHER_SHIELD_SCROLL": {
+        "buy": 275320089.7,
+        "sell": 207123497.93321916
+    },
+    "ENCHANTMENT_FEATHER_FALLING_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEATHER_FALLING_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FEATHER_FALLING_9": {
+        "buy": 451499.9,
+        "sell": 5121.8175675675675
+    },
+    "ACACIA_BIRDHOUSE": {
+        "buy": 742429.6925373132,
+        "sell": 456496.0326530612
+    },
+    "ENCHANTMENT_FEATHER_FALLING_8": {
+        "buy": 49998.8,
+        "sell": 56.1
+    },
+    "SPIDER_CATALYST": {
+        "buy": 13333.8,
+        "sell": 623.4038371980207
+    },
+    "ENCHANTED_LAPIS_LAZULI_BLOCK": {
+        "buy": 88108.61579827608,
+        "sell": 88008.70776122512
+    },
+    "ENCHANTED_ENDSTONE": {
+        "buy": 314.29947734643116,
+        "sell": 265.53413058530623
+    },
+    "ENCHANTED_SAND": {
+        "buy": 555.2241786507658,
+        "sell": 328.153774209568
+    },
+    "ESSENCE_ICE": {
+        "buy": 1855.033670093428,
+        "sell": 1735
+    },
+    "COLOSSAL_EXP_BOTTLE": {
+        "buy": 2309645.25877193,
+        "sell": 2137242.268928087
+    },
+    "ENCHANTED_STRING": {
+        "buy": 2551.9221301501543,
+        "sell": 2431.3086189151904
+    },
+    "PERFECT_ONYX_GEM": {
+        "buy": 20324729.536363635,
+        "sell": 15917507.963888891
+    },
+    "MOIL_LOG": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_DANDELION": {
+        "buy": 27680.75301740096,
+        "sell": 24418.10654702559
+    },
+    "MIMIC_FRAGMENT": {
+        "buy": 1999.6313034188033,
+        "sell": 999
+    },
+    "MAGMA_FISH_GOLD": {
+        "buy": 2498884.4131578947,
+        "sell": 2044228.3644444447
+    },
+    "SOUL_FRAGMENT": {
+        "buy": 1371824.5850000002,
+        "sell": 1130949.6749999998
+    },
+    "ENCHANTED_LAPIS_LAZULI": {
+        "buy": 909.9954397672827,
+        "sell": 842.0250834062892
+    },
+    "ENDERMAN_CORTEX_REWRITER": {
+        "buy": 80984.02083333333,
+        "sell": 60469.65132890366
+    },
+    "MELON_BLOCK": {
+        "buy": 109.94547651789807,
+        "sell": 30.963706886263278
+    },
+    "CRUDE_GABAGOOL_DISTILLATE": {
+        "buy": 81982.55293887146,
+        "sell": 64606.14947482796
+    },
+    "SEEDS": {
+        "buy": 3,
+        "sell": 1.5
+    },
+    "ENCHANTED_LEATHER": {
+        "buy": 6625,
+        "sell": 6222.1
+    },
+    "ENCHANTED_SPONGE": {
+        "buy": 2418.95570719603,
+        "sell": 1911.8285892032911
+    },
+    "WOLF_TOOTH": {
+        "buy": 946.4214903388637,
+        "sell": 840.0447080716445
+    },
+    "ENCHANTED_NETHER_STALK": {
+        "buy": 693.999477626503,
+        "sell": 612.057568579843
+    },
+    "ENCHANTMENT_CURSE_OF_VANISHING_0": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_REDSTONE": {
+        "buy": 850.964725534104,
+        "sell": 620.413015556442
+    },
+    "METEOR_SHARD": {
+        "buy": 2814644,
+        "sell": 1326443.936
+    },
+    "ENCHANTMENT_COMPACT_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_COMPACT_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "DWARVEN_COMPACTOR": {
+        "buy": 311998.5381263617,
+        "sell": 240411.5003937008
+    },
+    "ENCHANTMENT_COMPACT_1": {
+        "buy": 5191671.5,
+        "sell": 4655199.266666668
+    },
+    "GREAT_WHITE_SHARK_TOOTH": {
+        "buy": 1737955.3630017452,
+        "sell": 1524901.6583554375
+    },
+    "ESSENCE_GOLD": {
+        "buy": 703.9882726111679,
+        "sell": 664.5541219811281
+    },
+    "ENCHANTMENT_PRISTINE_1": {
+        "buy": 1619986.7614678899,
+        "sell": 1320000.2974358972
+    },
+    "ENCHANTMENT_COMPACT_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PRISTINE_2": {
+        "buy": 4861109.89,
+        "sell": 2212177.3
+    },
+    "ENCHANTMENT_COMPACT_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_6": {
+        "buy": 45999.7,
+        "sell": 1.1
+    },
+    "RECOMBOBULATOR_3000": {
+        "buy": 9111371.764122138,
+        "sell": 7921283.366332497
+    },
+    "ENCHANTMENT_COMPACT_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_COMPACT_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PRISTINE_5": {
+        "buy": 25460111.5,
+        "sell": 21850467.9
+    },
+    "ENCHANTMENT_PRISTINE_3": {
+        "buy": 11649995.2,
+        "sell": 4500000
+    },
+    "ENCHANTMENT_COMPACT_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PRISTINE_4": {
+        "buy": 17819451,
+        "sell": 8025729
+    },
+    "ENCHANTMENT_COMPACT_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_WHEAT": {
+        "buy": 996.5352070367196,
+        "sell": 925.1705864628701
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_10": {
+        "buy": 44989998.9,
+        "sell": 18642063.933333334
+    },
+    "NECROMANCER_BROOCH": {
+        "buy": 73259.31508379888,
+        "sell": 52340.209315068496
+    },
+    "ENCHANTED_PORK": {
+        "buy": 4764.461591755939,
+        "sell": 4253.009959444185
+    },
+    "PET_ITEM_LUCKY_CLOVER_DROP": {
+        "buy": 3569999.6,
+        "sell": 2648019.6
+    },
+    "BURROWING_SPORES": {
+        "buy": 4617805.408333332,
+        "sell": 3384623.233333334
+    },
+    "DEEP_SEA_ORB": {
+        "buy": 5409358.676,
+        "sell": 4660301.091304348
+    },
+    "ROUGH_JASPER_GEM": {
+        "buy": 17.450224302847214,
+        "sell": 10
+    },
+    "FEATHER": {
+        "buy": 4.772960616476826,
+        "sell": 0
+    },
+    "PETRIFIED_STARFALL": {
+        "buy": 2689999.2,
+        "sell": 900005.6680851063
+    },
+    "MAGIC_TOP_HAT": {
+        "buy": 33899999.5,
+        "sell": 24088393.375
+    },
+    "ENCHANTED_RED_SAND": {
+        "buy": 1355.0433028679483,
+        "sell": 836.6569829331069
+    },
+    "ENCHANTED_CLOWNFISH": {
+        "buy": 3180.659269282815,
+        "sell": 3033.4010922702537
+    },
+    "REFINED_UMBER": {
+        "buy": 2320924.301923077,
+        "sell": 2225864.1
+    },
+    "PITCHIN_KOI": {
+        "buy": 35460.06206896552,
+        "sell": 10003.503448275864
+    },
+    "ENCHANTED_GOLD": {
+        "buy": 601.5938943836717,
+        "sell": 519.4515330818703
+    },
+    "ENCHANTMENT_LIFE_STEAL_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LIFE_STEAL_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMELTING_TOUCH_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ROUGH_CITRINE_GEM": {
+        "buy": 4.298245447776348,
+        "sell": 0.6
+    },
+    "ENCHANTMENT_LIFE_STEAL_5": {
+        "buy": 19999999.1,
+        "sell": 9463316.0875
+    },
+    "ENCHANTMENT_LIFE_STEAL_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LIFE_STEAL_4": {
+        "buy": 207138.725,
+        "sell": 10625.3475
+    },
+    "ENCHANTMENT_PISCARY_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_PLATE": {
+        "buy": 2139137.5,
+        "sell": 2087661.78
+    },
+    "SADAN_BROOCH": {
+        "buy": 279388.61739130435,
+        "sell": 100.3
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_5": {
+        "buy": 175773.36800000002,
+        "sell": 14215.419855595666
+    },
+    "FIFTH_MASTER_STAR": {
+        "buy": 86758579.95,
+        "sell": 80747604.25625001
+    },
+    "ENCHANTMENT_PISCARY_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PISCARY_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_GLOWSTONE_DUST": {
+        "buy": 2094.9498510971785,
+        "sell": 1751.7999999999997
+    },
+    "BLUE_ICE_HUNK": {
+        "buy": 180120.97533333334,
+        "sell": 170905.7704424779
+    },
+    "ENCHANTMENT_PISCARY_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PISCARY_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PISCARY_6": {
+        "buy": 6902931.3,
+        "sell": 4229316.817948719
+    },
+    "ENCHANTMENT_TABASCO_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TABASCO_3": {
+        "buy": 3000000,
+        "sell": 1917003.3125
+    },
+    "ENCHANTMENT_PUNCH_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "TRANSMISSION_TUNER": {
+        "buy": 46767.11558441558,
+        "sell": 36152.35029325513
+    },
+    "ENCHANTED_SUGAR_CANE": {
+        "buy": 111550.22762148337,
+        "sell": 104653.4
+    },
+    "ENCHANTMENT_TABASCO_2": {
+        "buy": 0,
+        "sell": 10003.035135135135
+    },
+    "ENCHANTMENT_PUNCH_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_2": {
+        "buy": 9719.1,
+        "sell": 1
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_1": {
+        "buy": 2959.9911196911194,
+        "sell": 10.1
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_4": {
+        "buy": 319999,
+        "sell": 12.2
+    },
+    "CONCENTRATED_STONE": {
+        "buy": 589451.5951219512,
+        "sell": 492005.11057692306
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_3": {
+        "buy": 99285.17857142855,
+        "sell": 10.280000000000001
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_2": {
+        "buy": 259994.38000000003,
+        "sell": 86826.88818380746
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_1": {
+        "buy": 217494.20000000004,
+        "sell": 77919.72294372294
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_4": {
+        "buy": 999995.3250000001,
+        "sell": 481506.56130952376
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_3": {
+        "buy": 497520.7,
+        "sell": 223633.45052083334
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_6": {
+        "buy": 3499989.2526315786,
+        "sell": 1199702
+    },
+    "SHARK_WATER_ORB": {
+        "buy": 4999999.8,
+        "sell": 1149819.5
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_5": {
+        "buy": 2129406.96,
+        "sell": 1132500.6022197558
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_8": {
+        "buy": 16999991.3,
+        "sell": 6000012.6875
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_7": {
+        "buy": 9999999.149999999,
+        "sell": 2500001.2
+    },
+    "GHAST_TEAR": {
+        "buy": 144.11046501637247,
+        "sell": 52.30326306506216
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_9": {
+        "buy": 0,
+        "sell": 11300004.674999999
+    },
+    "UNSTABLE_FRAGMENT": {
+        "buy": 13016.3,
+        "sell": 10394.762878124367
+    },
+    "MAGMA_CREAM_DISTILLATE": {
+        "buy": 5651.9,
+        "sell": 4181.337520385029
+    },
+    "CORLEONITE": {
+        "buy": 766666.313986014,
+        "sell": 710801.9
+    },
+    "ENCHANTED_EMERALD_BLOCK": {
+        "buy": 111487.23652802894,
+        "sell": 99886.88743718593
+    },
+    "SUBZERO_INVERTER": {
+        "buy": 515045.7,
+        "sell": 300008.53589743585
+    },
+    "GIANT_TOOTH": {
+        "buy": 419999.9,
+        "sell": 276229.76759493665
+    },
+    "ENCHANTMENT_PIERCING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_THE_ONE_5": {
+        "buy": 104999999.9,
+        "sell": 76666667.4111111
+    },
+    "ENCHANTED_MUTTON": {
+        "buy": 3505.9291152069386,
+        "sell": 3165.527273978258
+    },
+    "SLEEPY_HOLLOW": {
+        "buy": 9654347.55652174,
+        "sell": 8815895.8
+    },
+    "ENCHANTMENT_TITAN_KILLER_7": {
+        "buy": 30355423.5,
+        "sell": 26114097.3
+    },
+    "ENCHANTMENT_TITAN_KILLER_6": {
+        "buy": 43633.52173913043,
+        "sell": 2000.612307692308
+    },
+    "NULL_SPHERE": {
+        "buy": 377.4187433213816,
+        "sell": 284.641906091154
+    },
+    "ENCHANTMENT_TITAN_KILLER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TITAN_KILLER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TITAN_KILLER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TITAN_KILLER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TITAN_KILLER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "STOCK_OF_STONKS": {
+        "buy": 3336326.4845,
+        "sell": 3237845.1847803886
+    },
+    "SUPERIOR_FRAGMENT": {
+        "buy": 182427.96772486772,
+        "sell": 174175.42784248473
+    },
+    "MAGMA_BUCKET": {
+        "buy": 4824531.522826088,
+        "sell": 4677766.217786562
+    },
+    "ENCHANTMENT_ULTIMATE_THE_ONE_4": {
+        "buy": 51883497.075,
+        "sell": 43500001.1
+    },
+    "ENCHANTMENT_POWER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "HOT_BAIT": {
+        "buy": 616.9942140612484,
+        "sell": 401.686512253377
+    },
+    "NULL_BLADE": {
+        "buy": 47961903.07619048,
+        "sell": 40000000.95
+    },
+    "ENCHANTMENT_POWER_7": {
+        "buy": 259999987.7,
+        "sell": 239063952.91176465
+    },
+    "ENCHANTMENT_POWER_6": {
+        "buy": 271838.18571428576,
+        "sell": 9993.807722007721
+    },
+    "ENCHANTMENT_ANGLER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ANGLER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GLACITE_SHARD": {
+        "buy": 8998.893548387096,
+        "sell": 1.4
+    },
+    "WORM_MEMBRANE": {
+        "buy": 46609.10208313148,
+        "sell": 46506.8734155917
+    },
+    "ENCHANTMENT_ANGLER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_POWER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ANGLER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BLACK_WOOLEN_YARN": {
+        "buy": 8949994.594999999,
+        "sell": 6827093.895522388
+    },
+    "ENCHANTMENT_ANGLER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_POWER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ANGLER_6": {
+        "buy": 9999.7,
+        "sell": 1.3
+    },
+    "ENCHANTMENT_POWER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_POWER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "WATER_LILY": {
+        "buy": 12.696156443789524,
+        "sell": 5.74629866870444
+    },
+    "ENCHANTMENT_THORNS_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BOB_OMB": {
+        "buy": 1496.8792733278283,
+        "sell": 595.7
+    },
+    "LOG_2": {
+        "buy": 21,
+        "sell": 5.472348925410872
+    },
+    "MITHRIL_INFUSION": {
+        "buy": 5922448.4682266,
+        "sell": 5231941.463636363
+    },
+    "COAL": {
+        "buy": 12,
+        "sell": 7.082586843382742
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_3": {
+        "buy": 28899987.2,
+        "sell": 14630299.5
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_4": {
+        "buy": 81012400.4,
+        "sell": 205901.52
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_5": {
+        "buy": 117899998.9,
+        "sell": 19400003.4
+    },
+    "ENCHANTMENT_THORNS_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_BOUNTY": {
+        "buy": 70564099.4,
+        "sell": 50875169.94210527
+    },
+    "ENCHANTMENT_THORNS_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_VAMPIRISM_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_PRISMARINE_CRYSTALS": {
+        "buy": 495.0348620287602,
+        "sell": 345.1176683871096
+    },
+    "GOBLIN_EGG": {
+        "buy": 6134.996723044398,
+        "sell": 5403.673906027787
+    },
+    "PERFECT_TOPAZ_GEM": {
+        "buy": 17089316.194444444,
+        "sell": 16516020.780851064
+    },
+    "ENCHANTMENT_VAMPIRISM_6": {
+        "buy": 1629998.8,
+        "sell": 650177.503030303
+    },
+    "LIVID_FRAGMENT": {
+        "buy": 123619.72179487179,
+        "sell": 116000.30585424133
+    },
+    "ENCHANTMENT_VAMPIRISM_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "PLASMA": {
+        "buy": 28402,
+        "sell": 22002.45504273504
+    },
+    "ENCHANTMENT_VAMPIRISM_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_WET_SPONGE": {
+        "buy": 80485.08599801392,
+        "sell": 77097.66318362652
+    },
+    "ENCHANTMENT_CULTIVATING_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENDER_STONE": {
+        "buy": 5.8,
+        "sell": 0.2
+    },
+    "ESSENCE_CRIMSON": {
+        "buy": 1935.6723083609716,
+        "sell": 1889.0833417882054
+    },
+    "PERFECT_PLATE": {
+        "buy": 33981906.74545455,
+        "sell": 32342109.9
+    },
+    "ENCHANTMENT_CULTIVATING_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_1": {
+        "buy": 5099999.6,
+        "sell": 4300001
+    },
+    "ENCHANTMENT_VAMPIRISM_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_VAMPIRISM_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CULTIVATING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "QUARTZ": {
+        "buy": 36,
+        "sell": 12.851998419245684
+    },
+    "JERRY_BOX_PURPLE": {
+        "buy": 671385.9843349754,
+        "sell": 542456.9854482758
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_1": {
+        "buy": 1118236.0103448278,
+        "sell": 1065000.9285420945
+    },
+    "SALMON_OPAL": {
+        "buy": 2098.1874999999995,
+        "sell": 6.4
+    },
+    "CHUM": {
+        "buy": 34.6,
+        "sell": 5.6
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_3": {
+        "buy": 5139885.133333333,
+        "sell": 3753789.3642857145
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_2": {
+        "buy": 2513744.3,
+        "sell": 1737444.5103448275
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_5": {
+        "buy": 19799999.891304348,
+        "sell": 16934125.5
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_4": {
+        "buy": 11670375.8,
+        "sell": 7803786
+    },
+    "MAGMA_CREAM": {
+        "buy": 18.9,
+        "sell": 12.600000000000001
+    },
+    "ENCHANTED_COMPOST": {
+        "buy": 2430007.9053435116,
+        "sell": 2280982.7
+    },
+    "ENCHANTMENT_CHANCE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_MITHRIL": {
+        "buy": 1614.9890927820652,
+        "sell": 1478.924193433262
+    },
+    "RED_GIFT": {
+        "buy": 52199.99541587901,
+        "sell": 47125.80989493346
+    },
+    "ENCHANTMENT_CHANCE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ROUGH_PERIDOT_GEM": {
+        "buy": 11,
+        "sell": 4.6
+    },
+    "FEL_PEARL": {
+        "buy": 1319,
+        "sell": 1000
+    },
+    "ENCHANTMENT_CHANCE_5": {
+        "buy": 17599997.85,
+        "sell": 14000000.5
+    },
+    "ENCHANTED_FEATHER": {
+        "buy": 473.3865990389749,
+        "sell": 419.3013187952316
+    },
+    "ENCHANTMENT_CHANCE_4": {
+        "buy": 12159.331372549017,
+        "sell": 3.1
+    },
+    "ENCHANTED_OAK_LOG": {
+        "buy": 1220.8578752387753,
+        "sell": 1000.9403442864029
+    },
+    "ENCHANTMENT_CHANCE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GREEN_THUMB_5": {
+        "buy": 109299328.2,
+        "sell": 59751097.38333333
+    },
+    "ENCHANTMENT_KNOCKBACK_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "WHITE_GIFT": {
+        "buy": 4004.857809752197,
+        "sell": 3310.4257293995174
+    },
+    "FLAWLESS_AQUAMARINE_GEM": {
+        "buy": 2302737.406986899,
+        "sell": 2120449.6789062503
+    },
+    "ENCHANTMENT_KNOCKBACK_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GREEN_THUMB_1": {
+        "buy": 6476316.0625,
+        "sell": 5721205.823880597
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_2": {
+        "buy": 19999997,
+        "sell": 5302126
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_1": {
+        "buy": 5198451.75,
+        "sell": 4500001
+    },
+    "ENCHANTMENT_GREEN_THUMB_2": {
+        "buy": 15359559,
+        "sell": 10564687.1
+    },
+    "NETHER_STALK": {
+        "buy": 3.652041757550108,
+        "sell": 1.2852383051210883
+    },
+    "ENCHANTMENT_GREEN_THUMB_3": {
+        "buy": 32533164.9,
+        "sell": 23843447
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_4": {
+        "buy": 99969416.9,
+        "sell": 1000004.7583333333
+    },
+    "ENCHANTMENT_GREEN_THUMB_4": {
+        "buy": 59999998.4,
+        "sell": 45560000.3
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_3": {
+        "buy": 24999999.6,
+        "sell": 5000009.949999999
+    },
+    "ENCHANTMENT_FIRST_STRIKE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "HORSEMAN_CANDLE": {
+        "buy": 765147.8,
+        "sell": 451500.10829103214
+    },
+    "RED_ROSE": {
+        "buy": 64.5,
+        "sell": 0.4
+    },
+    "ENCHANTMENT_FIRST_STRIKE_5": {
+        "buy": 328201579.2,
+        "sell": 290660057.5
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_5": {
+        "buy": 99999983.7,
+        "sell": 35000001.64285714
+    },
+    "ENCHANTMENT_FIRST_STRIKE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRST_STRIKE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FIRST_STRIKE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_BALL": {
+        "buy": 1499998.3699999999,
+        "sell": 1071314
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_1": {
+        "buy": 59538.9,
+        "sell": 17024.8
+    },
+    "WRIGGLING_LARVA": {
+        "buy": 1329222.48,
+        "sell": 979491.3459459458
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_2": {
+        "buy": 150000,
+        "sell": 20000.2
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_3": {
+        "buy": 586997.1,
+        "sell": 35477.670454545456
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_4": {
+        "buy": 899997.6,
+        "sell": 286632.1125
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_5": {
+        "buy": 1562972.8,
+        "sell": 377860.56511627906
+    },
+    "EMPTY_CHUM_BUCKET": {
+        "buy": 7698.99995517705,
+        "sell": 5907.7487615902455
+    },
+    "LEATHER": {
+        "buy": 113.53430547921052,
+        "sell": 88
+    },
+    "GIANT_FRAGMENT_BOULDER": {
+        "buy": 5096.09498141264,
+        "sell": 811.404022298044
+    },
+    "MAGMA_FISH": {
+        "buy": 444.5117845117845,
+        "sell": 288.5239644987055
+    },
+    "SOUL_STRING": {
+        "buy": 4952.6458107151275,
+        "sell": 4692.642888667166
+    },
+    "ENCHANTMENT_EXPERTISE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXPERTISE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_BREAD": {
+        "buy": 222.67153263403264,
+        "sell": 145.6
+    },
+    "FUMING_POTATO_BOOK": {
+        "buy": 1337852.6623239438,
+        "sell": 1281167.9685381358
+    },
+    "ENCHANTMENT_EXPERTISE_1": {
+        "buy": 4299994.925555555,
+        "sell": 2362943.4
+    },
+    "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_5": {
+        "buy": 0,
+        "sell": 908256.9146788991
+    },
+    "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_3": {
+        "buy": 0,
+        "sell": 1764004.1199999999
+    },
+    "ENCHANTMENT_DEPTH_STRIDER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLESSING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SULPHUR_ORE": {
+        "buy": 9.87203539823009,
+        "sell": 1.6
+    },
+    "FLAWED_SAPPHIRE_GEM": {
+        "buy": 594.5956317519963,
+        "sell": 394.8405929810284
+    },
+    "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_4": {
+        "buy": 0,
+        "sell": 40239.78735632184
+    },
+    "ENCHANTMENT_DEPTH_STRIDER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLESSING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_1": {
+        "buy": 32133411.9,
+        "sell": 28214531.72
+    },
+    "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_2": {
+        "buy": 90000000,
+        "sell": 15000001.8
+    },
+    "ENCHANTMENT_BLESSING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BLESSING_6": {
+        "buy": 1789997.585714286,
+        "sell": 1198380.7947368422
+    },
+    "PERFECT_SAPPHIRE_GEM": {
+        "buy": 17061365.32654867,
+        "sell": 15894843.138461538
+    },
+    "ENCHANTMENT_BLESSING_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SNOW_BLOCK": {
+        "buy": 4.910323049547631,
+        "sell": 0.8
+    },
+    "ENCHANTMENT_BLESSING_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_BAKED_POTATO": {
+        "buy": 77494.93338525441,
+        "sell": 74499.6346387576
+    },
+    "AGARIMOO_TONGUE": {
+        "buy": 11411.191437772306,
+        "sell": 9729.5
+    },
+    "COMPACTOR": {
+        "buy": 13997.635714285714,
+        "sell": 2502.061267605634
+    },
+    "FROZEN_BAUBLE": {
+        "buy": 6900525.244236759,
+        "sell": 5000002.7
+    },
+    "MANDRAA": {
+        "buy": 3357490.2708333335,
+        "sell": 2750001.53015873
+    },
+    "ENCHANTMENT_DEPTH_STRIDER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SPOOKY_SHARD": {
+        "buy": 36689.588410256416,
+        "sell": 18859.20233463035
+    },
+    "ENCHANTMENT_CHAMPION_1": {
+        "buy": 5133478.60340909,
+        "sell": 4536914.65090909
+    },
+    "ENCHANTMENT_CHAMPION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CHAMPION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CHAMPION_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_LUSH_BERBERIS": {
+        "buy": 17734.76639118457,
+        "sell": 16450.081270323004
+    },
+    "ENCHANTED_POTATO": {
+        "buy": 498.9,
+        "sell": 461.9670254901887
+    },
+    "ENCHANTMENT_CHAMPION_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "RADIOACTIVE_VIAL": {
+        "buy": 174999997.4,
+        "sell": 167205552.4
+    },
+    "ENCHANTMENT_CHAMPION_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_SLIME_BALL": {
+        "buy": 2216.055528798199,
+        "sell": 2137.1498079013427
+    },
+    "ENCHANTMENT_CHAMPION_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CHAMPION_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CHAMPION_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BULKY_STONE": {
+        "buy": 7471118.9,
+        "sell": 3735560.5
+    },
+    "ENCHANTMENT_SNIPE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_RED_MUSHROOM": {
+        "buy": 1612.2065726759706,
+        "sell": 1540.2452368174918
+    },
+    "ENCHANTMENT_SNIPE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SNIPE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_RESPIRATION_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_0": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1": {
+        "buy": 4684198.5,
+        "sell": 1839730.294472362
+    },
+    "TUNGSTEN_KEY": {
+        "buy": 3132775.1,
+        "sell": 1732883.9439252336
+    },
+    "ENCHANTMENT_SNIPE_4": {
+        "buy": 218989291.1,
+        "sell": 120891006.95
+    },
+    "FINE_CITRINE_GEM": {
+        "buy": 19451.59739217653,
+        "sell": 18299.08814440648
+    },
+    "GREAT_WHITE_TOOTH_MEAL": {
+        "buy": 8999974.2125,
+        "sell": 5757470.003030303
+    },
+    "ENCHANTMENT_RESPIRATION_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_RESPIRATION_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BOOKWORM_BOOK": {
+        "buy": 14888.45,
+        "sell": 3466.9969247083777
+    },
+    "FULL_JAW_FANGING_KIT": {
+        "buy": 5999999.8,
+        "sell": 1683233.9508982038
+    },
+    "ENCHANTED_CAKE": {
+        "buy": 48994.7,
+        "sell": 2286.3
+    },
+    "PUMPKIN": {
+        "buy": 9,
+        "sell": 5.823665599822354
+    },
+    "WHEAT": {
+        "buy": 7.537620749629542,
+        "sell": 4.5
+    },
+    "NURSE_SHARK_TOOTH": {
+        "buy": 16433.54986807388,
+        "sell": 13574.144794520547
+    },
+    "ENCHANTMENT_REFLECTION_5": {
+        "buy": 14999994.233333334,
+        "sell": 5295802.63125
+    },
+    "ENCHANTMENT_REFLECTION_4": {
+        "buy": 7901669.4,
+        "sell": 1087741.5499999998
+    },
+    "ENCHANTMENT_ULTIMATE_BANK_5": {
+        "buy": 150518.55585585584,
+        "sell": 7552.846575342466
+    },
+    "ENCHANTMENT_ULTIMATE_BANK_2": {
+        "buy": 100,
+        "sell": 0.2
+    },
+    "ENCHANTMENT_ULTIMATE_LEGION_1": {
+        "buy": 2499998.715625,
+        "sell": 2396283.731793641
+    },
+    "ENCHANTMENT_ULTIMATE_BANK_1": {
+        "buy": 0.8,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_LEGION_2": {
+        "buy": 6727657.099999999,
+        "sell": 4399128.008333334
+    },
+    "ENCHANTED_SPIDER_EYE": {
+        "buy": 1597.3635870336784,
+        "sell": 1550.0029366306028
+    },
+    "ENCHANTMENT_ULTIMATE_BANK_4": {
+        "buy": 152373,
+        "sell": 18.852459016393443
+    },
+    "ENCHANTMENT_ULTIMATE_BANK_3": {
+        "buy": 44999.5,
+        "sell": 0.2
+    },
+    "ENCHANTMENT_ULTIMATE_LEGION_5": {
+        "buy": 42586004.881818175,
+        "sell": 38965828.75
+    },
+    "ENCHANTMENT_REFLECTION_1": {
+        "buy": 877288.3588235294,
+        "sell": 261613.46171617165
+    },
+    "ENCHANTMENT_ULTIMATE_LEGION_3": {
+        "buy": 10809785.6,
+        "sell": 9264769.7
+    },
+    "ENCHANTMENT_REFLECTION_3": {
+        "buy": 4946662.5,
+        "sell": 456145.31176470587
+    },
+    "ENCHANTMENT_REFLECTION_2": {
+        "buy": 3999999.3,
+        "sell": 281663.6170731707
+    },
+    "ENCHANTMENT_ULTIMATE_LEGION_4": {
+        "buy": 22452627.399999995,
+        "sell": 17432400.22
+    },
+    "RAW_SOULFLOW": {
+        "buy": 408.0042231572386,
+        "sell": 260.3458894707852
+    },
+    "ENCHANTMENT_TRIPLE_STRIKE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TRIPLE_STRIKE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TRIPLE_STRIKE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSPERITY_1": {
+        "buy": 1999996.2333333334,
+        "sell": 1219512.1120689656
+    },
+    "RAW_FISH": {
+        "buy": 97.3181666017906,
+        "sell": 51.7
+    },
+    "ENCHANTMENT_PROSPERITY_3": {
+        "buy": 11999999.9,
+        "sell": 100000
+    },
+    "YOGGIE": {
+        "buy": 101,
+        "sell": 22.804959014537385
+    },
+    "ENCHANTMENT_PROSPERITY_2": {
+        "buy": 8989998.9,
+        "sell": 2134.1749999999997
+    },
+    "ICE_HUNK": {
+        "buy": 24.999952662721896,
+        "sell": 0
+    },
+    "PERFECT_JASPER_GEM": {
+        "buy": 36694556.36,
+        "sell": 32759376.541860465
+    },
+    "ENCHANTMENT_PROSPERITY_5": {
+        "buy": 37294997.5,
+        "sell": 12950001.9
+    },
+    "ENCHANTMENT_HECATOMB_10": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_PROSPERITY_4": {
+        "buy": 159999999.9,
+        "sell": 600003.98
+    },
+    "CONTROL_SWITCH": {
+        "buy": 105097.21914893617,
+        "sell": 88509.52812311407
+    },
+    "ENCHANTMENT_COUNTER_STRIKE_3": {
+        "buy": 0,
+        "sell": 5.616216216216216
+    },
+    "DIAMOND_SPREADING": {
+        "buy": 7264.465632458234,
+        "sell": 2767.993170731708
+    },
+    "ENCHANTMENT_COUNTER_STRIKE_4": {
+        "buy": 0,
+        "sell": 713572.1142857143
+    },
+    "ENCHANTMENT_COUNTER_STRIKE_5": {
+        "buy": 119999997,
+        "sell": 81768519.24545455
+    },
+    "TIGHTLY_TIED_HAY_BALE": {
+        "buy": 0,
+        "sell": 0
+    },
+    "NETHER_STALK_DISTILLATE": {
+        "buy": 5442.52564180929,
+        "sell": 4090.0183184593707
+    },
+    "DARK_CANDY": {
+        "buy": 53718.56478369681,
+        "sell": 49803
+    },
+    "DIVER_FRAGMENT": {
+        "buy": 588702.4409090909,
+        "sell": 484999.2064705882
+    },
+    "ENCHANTMENT_WITHER_HUNTER_0": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SPIKED_HOOK_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SPIKED_HOOK_6": {
+        "buy": 8450,
+        "sell": 0
+    },
+    "ENCHANTMENT_SPIKED_HOOK_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SPIKED_HOOK_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_FLOWSTATE_1": {
+        "buy": 7146.415384615385,
+        "sell": 502.7202409638554
+    },
+    "ESSENCE_DIAMOND": {
+        "buy": 400.5860441197882,
+        "sell": 357.68281539185784
+    },
+    "ENCHANTMENT_LETHALITY_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LETHALITY_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LETHALITY_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LETHALITY_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LETHALITY_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GLACITE": {
+        "buy": 19.783427610545388,
+        "sell": 10
+    },
+    "ENCHANTMENT_LETHALITY_6": {
+        "buy": 199999.8,
+        "sell": 56553.155698529416
+    },
+    "PLANT_MATTER": {
+        "buy": 52987.019900497515,
+        "sell": 36894.379484912126
+    },
+    "ENCHANTMENT_CLEAVE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "BLOOD_STAINED_COINS": {
+        "buy": 4438699.3,
+        "sell": 3500000.7
+    },
+    "ENCHANTMENT_CLEAVE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_REJUVENATE_1": {
+        "buy": 39126.166666666664,
+        "sell": 29348.151951547778
+    },
+    "HUGE_MUSHROOM_1": {
+        "buy": 499.62502443792766,
+        "sell": 33.47504210792261
+    },
+    "ENCHANTMENT_CLEAVE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "HUGE_MUSHROOM_2": {
+        "buy": 239.13439349112423,
+        "sell": 33.94100722377278
+    },
+    "ENCHANTMENT_CLEAVE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CLEAVE_6": {
+        "buy": 21499999.3,
+        "sell": 14436474.207407407
+    },
+    "ENCHANTMENT_CLEAVE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_REJUVENATE_5": {
+        "buy": 751999.4735849057,
+        "sell": 602019.2836734693
+    },
+    "ENCHANTMENT_VICIOUS_3": {
+        "buy": 42618235.3,
+        "sell": 30182413.065714285
+    },
+    "ENCHANTMENT_VICIOUS_4": {
+        "buy": 109999998.4,
+        "sell": 17565003.87142857
+    },
+    "ENCHANTMENT_REJUVENATE_4": {
+        "buy": 511999,
+        "sell": 247234.80699999994
+    },
+    "ENCHANTMENT_REJUVENATE_3": {
+        "buy": 190320.9,
+        "sell": 99339.805625
+    },
+    "ENCHANTMENT_VICIOUS_5": {
+        "buy": 134988885,
+        "sell": 111249445.95
+    },
+    "ENCHANTMENT_REJUVENATE_2": {
+        "buy": 73552.52500000001,
+        "sell": 45076.08717156105
+    },
+    "STRING": {
+        "buy": 19.811033101999406,
+        "sell": 9.982605204371188
+    },
+    "ENCHANTMENT_ULTIMATE_FLOWSTATE_3": {
+        "buy": 55571.16350364964,
+        "sell": 27618
+    },
+    "CRUDE_GABAGOOL": {
+        "buy": 537.8033789109352,
+        "sell": 349.16971184562755
+    },
+    "ENCHANTMENT_ULTIMATE_FLOWSTATE_2": {
+        "buy": 48993.700000000004,
+        "sell": 51.42442748091603
+    },
+    "DRAGON_SCALE": {
+        "buy": 7996.7972,
+        "sell": 8.2
+    },
+    "ENCHANTMENT_SPIKED_HOOK_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SPIKED_HOOK_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_CACTUS_GREEN": {
+        "buy": 695.971260911692,
+        "sell": 611.8764606985573
+    },
+    "FRIGID_HUSK": {
+        "buy": 16499997.9,
+        "sell": 3000000.9
+    },
+    "POISON_SAMPLE": {
+        "buy": 1119998.8795918366,
+        "sell": 1011755.6622047246
+    },
+    "BOOSTER_COOKIE": {
+        "buy": 11319173.477236582,
+        "sell": 10724490.884870851
+    },
+    "ENCHANTED_COOKIE": {
+        "buy": 73982.74521415269,
+        "sell": 66400.96815398075
+    },
+    "AMALGAMATED_CRIMSONITE_NEW": {
+        "buy": 126233.19741602066,
+        "sell": 40044.35
+    },
+    "STRONG_FRAGMENT": {
+        "buy": 33755.2474801061,
+        "sell": 28363.920558139536
+    },
+    "MYCEL": {
+        "buy": 22.7,
+        "sell": 2.9
+    },
+    "AUTO_SMELTER": {
+        "buy": 9498.3,
+        "sell": 200.03503401360544
+    },
+    "WOOL": {
+        "buy": 2.984803774100916,
+        "sell": 0.09999999999999999
+    },
+    "ENCHANTMENT_TURBO_CARROT_2": {
+        "buy": 46150.619999999995,
+        "sell": 2001.2
+    },
+    "ENCHANTMENT_TURBO_CARROT_1": {
+        "buy": 15197.288235294118,
+        "sell": 2338.9695402298853
+    },
+    "ENCHANTMENT_ULTIMATE_REFRIGERATE_5": {
+        "buy": 47999995.959259264,
+        "sell": 38000000.9
+    },
+    "ENCHANTMENT_GIANT_KILLER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "WHIPPED_MAGMA_CREAM": {
+        "buy": 204428.2601965602,
+        "sell": 198629.70647198107
+    },
+    "ENCHANTMENT_GIANT_KILLER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GIANT_KILLER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "PERFECT_AMBER_GEM": {
+        "buy": 16054745.200000003,
+        "sell": 15559720.211363638
+    },
+    "DRAGON_HORN": {
+        "buy": 8202012.314285714,
+        "sell": 6765824.1
+    },
+    "ENCHANTMENT_GIANT_KILLER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_GIANT_KILLER_6": {
+        "buy": 1270754.4,
+        "sell": 940203.1042145594
+    },
+    "FLINT": {
+        "buy": 74.37707132989657,
+        "sell": 31.917461275397304
+    },
+    "ENCHANTMENT_GIANT_KILLER_7": {
+        "buy": 217300804.4,
+        "sell": 196433657.26875004
+    },
+    "MAGMA_CORE": {
+        "buy": 759996.7,
+        "sell": 694748.8071823205
+    },
+    "ENCHANTMENT_TRIPLE_STRIKE_5": {
+        "buy": 84999999.9,
+        "sell": 52391744.8375
+    },
+    "DWARVEN_TREASURE": {
+        "buy": 440.6730158730159,
+        "sell": 0
+    },
+    "ENCHANTED_SPRUCE_LOG": {
+        "buy": 1362.7790686049902,
+        "sell": 1014.2812385055091
+    },
+    "HARDENED_WOOD": {
+        "buy": 165940.59629629628,
+        "sell": 13079.689221556884
+    },
+    "TUNGSTEN": {
+        "buy": 85.924750285325,
+        "sell": 68.82185418548895
+    },
+    "ENCHANTMENT_TRIPLE_STRIKE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_INFERNO_1": {
+        "buy": 5553280.25,
+        "sell": 2784822.975483871
+    },
+    "ENCHANTMENT_ULTIMATE_INFERNO_3": {
+        "buy": 49999999.9,
+        "sell": 3000003.22
+    },
+    "ENCHANTMENT_ULTIMATE_REFRIGERATE_1": {
+        "buy": 2843859.874311927,
+        "sell": 2487506.531372549
+    },
+    "ENCHANTED_QUARTZ_BLOCK": {
+        "buy": 595330.2556844547,
+        "sell": 569777.5084128361
+    },
+    "HEAVY_GABAGOOL": {
+        "buy": 501706.7932166302,
+        "sell": 4496.09717047573
+    },
+    "ENCHANTMENT_ULTIMATE_INFERNO_2": {
+        "buy": 20000000,
+        "sell": 200000.6
+    },
+    "ENCHANTMENT_ULTIMATE_REFRIGERATE_2": {
+        "buy": 8907878.2,
+        "sell": 4484828.8
+    },
+    "ENCHANTMENT_ULTIMATE_REFRIGERATE_3": {
+        "buy": 17949996.5,
+        "sell": 897512.7
+    },
+    "ENCHANTMENT_ULTIMATE_INFERNO_5": {
+        "buy": 79999999.9,
+        "sell": 21845002.1
+    },
+    "MIXED_MITE_GEL": {
+        "buy": 369999.4,
+        "sell": 100443.72277227722
+    },
+    "ENCHANTMENT_ULTIMATE_INFERNO_4": {
+        "buy": 0,
+        "sell": 1200002.05
+    },
+    "ENCHANTMENT_ULTIMATE_REFRIGERATE_4": {
+        "buy": 35961162.7,
+        "sell": 17611693.3
+    },
+    "ECCENTRIC_PAINTING": {
+        "buy": 45277999.3,
+        "sell": 38673127.012499996
+    },
+    "GREEN_CANDY": {
+        "buy": 2399.8146061869916,
+        "sell": 2099.2476900202914
+    },
+    "REAPER_PEPPER": {
+        "buy": 49999990,
+        "sell": 36000069.7
+    },
+    "ENCHANTMENT_AQUA_AFFINITY_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GRAVEL": {
+        "buy": 8.99195312002378,
+        "sell": 0.2
+    },
+    "ENCHANTED_PACKED_ICE": {
+        "buy": 83605.33107580099,
+        "sell": 76902.9409490334
+    },
+    "ENCHANTED_PRISMARINE_SHARD": {
+        "buy": 399.0485336637753,
+        "sell": 223.91563910561868
+    },
+    "SPIRIT_DECOY": {
+        "buy": 1818306.78125,
+        "sell": 993413.7294117647
+    },
+    "ENCHANTMENT_TURBO_CARROT_4": {
+        "buy": 749999.7,
+        "sell": 100000
+    },
+    "HYPERGOLIC_GABAGOOL": {
+        "buy": 5696956.0099315075,
+        "sell": 5500000.866666667
+    },
+    "ENCHANTMENT_TURBO_CARROT_3": {
+        "buy": 225999.5,
+        "sell": 20800
+    },
+    "ENCHANTED_CARROT_STICK": {
+        "buy": 135149.4,
+        "sell": 1501.051282051282
+    },
+    "ENCHANTMENT_TURBO_CARROT_5": {
+        "buy": 599999.5722222222,
+        "sell": 200000.2
+    },
+    "ENCHANTMENT_TURBO_CANE_4": {
+        "buy": 327950.1,
+        "sell": 44332.25308056872
+    },
+    "ENCHANTMENT_TURBO_CANE_3": {
+        "buy": 164999.88484848483,
+        "sell": 5000.6
+    },
+    "DRILL_ENGINE": {
+        "buy": 4016781.5592592596,
+        "sell": 3556357.5068965517
+    },
+    "ENCHANTMENT_TURBO_CANE_2": {
+        "buy": 43440.9,
+        "sell": 35
+    },
+    "ENCHANTMENT_TURBO_CANE_1": {
+        "buy": 45255.5,
+        "sell": 2559.7
+    },
+    "ENCHANTMENT_TURBO_CANE_5": {
+        "buy": 299999.9,
+        "sell": 199999.9
+    },
+    "PERFECT_CITRINE_GEM": {
+        "buy": 13912217.854545455,
+        "sell": 13296190.364088397
+    },
+    "BOX_OF_SEEDS": {
+        "buy": 78980.37861142217,
+        "sell": 75106.24666666666
+    },
+    "VITAMIN_DEATH": {
+        "buy": 74315.0875,
+        "sell": 22615.004377880185
+    },
+    "THIRD_MASTER_STAR": {
+        "buy": 50111032.95625,
+        "sell": 47778565.4
+    },
+    "XLARGE_ENCHANTED_CHEST": {
+        "buy": 2585340.993333333,
+        "sell": 2260517.3
+    },
+    "PET_ITEM_TIER_BOOST_DROP": {
+        "buy": 96505434.2,
+        "sell": 85465026.50000001
+    },
+    "NETHERRACK": {
+        "buy": 0.6989718441114013,
+        "sell": 0
+    },
+    "COMPOST": {
+        "buy": 14334.5142394822,
+        "sell": 14016.2
+    },
+    "DARK_QUEENS_SOUL_DROP": {
+        "buy": 5268.7,
+        "sell": 1321.158905348077
+    },
+    "FERMENTO": {
+        "buy": 264366.875,
+        "sell": 248409.491728526
+    },
+    "MIDAS_JEWEL": {
+        "buy": 7195.577528089888,
+        "sell": 1
+    },
+    "CANDY_CORN": {
+        "buy": 1885.7327586206898,
+        "sell": 2.701657458563536
+    },
+    "ASCENSION_ROPE": {
+        "buy": 70.05573925544796,
+        "sell": 5.610982468292843
+    },
+    "PREMIUM_FLESH": {
+        "buy": 9.683333333333335,
+        "sell": 0
+    },
+    "SQUASH": {
+        "buy": 74993.81839123867,
+        "sell": 72630.40253607345
+    },
+    "ROUGH_AMETHYST_GEM": {
+        "buy": 5.492655617961179,
+        "sell": 2
+    },
+    "FLAWLESS_RUBY_GEM": {
+        "buy": 2165527.7722397475,
+        "sell": 1956396.4511904763
+    },
+    "NULL_ATOM": {
+        "buy": 48163,
+        "sell": 31702.877586935843
+    },
+    "PURE_MITHRIL": {
+        "buy": 1499999.291304348,
+        "sell": 1714.3142857142857
+    },
+    "BLESSED_BAIT": {
+        "buy": 413.93898052217156,
+        "sell": 196.1565650969529
+    },
+    "ROCK_CANDY": {
+        "buy": 124979.5,
+        "sell": 37889.29873417722
+    },
+    "GLACITE_AMALGAMATION": {
+        "buy": 1914719.836082474,
+        "sell": 1800002.8289473683
+    },
+    "ENCHANTMENT_FORTUNE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FORTUNE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "LOG": {
+        "buy": 7.235285781097207,
+        "sell": 2.5149491014201333
+    },
+    "ENCHANTMENT_FORTUNE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FORTUNE_4": {
+        "buy": 658303.3,
+        "sell": 134252.72405498283
+    },
+    "SEARING_STONE": {
+        "buy": 649997.9028169014,
+        "sell": 343152.17843137257
+    },
+    "ENCHANTMENT_FLAME_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FLAME_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ROUGH_JADE_GEM": {
+        "buy": 6.562230612712788,
+        "sell": 2.1
+    },
+    "ENCHANTED_JUNGLE_LOG": {
+        "buy": 1117.1472016651248,
+        "sell": 923.6415124471583
+    },
+    "WOOD_SINGULARITY": {
+        "buy": 5600000,
+        "sell": 3630082.404545455
+    },
+    "IRON_INGOT": {
+        "buy": 12.286630769539105,
+        "sell": 6.343223868805223
+    },
+    "GEMSTONE_MIXTURE": {
+        "buy": 1544763.337142857,
+        "sell": 1465550.2754385967
+    },
+    "ENCHANTMENT_DIVINE_GIFT_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_DIVINE_GIFT_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_DIVINE_GIFT_1": {
+        "buy": 27001365.899999995,
+        "sell": 25100000.1
+    },
+    "SPIRIT_BONE": {
+        "buy": 6131287.4,
+        "sell": 5500000.219565217
+    },
+    "ROUGH_SAPPHIRE_GEM": {
+        "buy": 7.681067180159877,
+        "sell": 2.0999999999999996
+    },
+    "MITE_GEL": {
+        "buy": 1997.7143187066972,
+        "sell": 1902.805621029027
+    },
+    "REVENANT_VISCERA": {
+        "buy": 89615.6957841232,
+        "sell": 84939.24856459329
+    },
+    "ENCHANTMENT_GIANT_KILLER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "TARANTULA_SILK": {
+        "buy": 227634.33222748814,
+        "sell": 218000.44456404736
+    },
+    "TITANIC_EXP_BOTTLE": {
+        "buy": 546004.574386503,
+        "sell": 526372.8962025316
+    },
+    "ENCHANTMENT_FRAIL_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FRAIL_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FRAIL_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SUPER_EGG": {
+        "buy": 653499.1430379746,
+        "sell": 597953.4027042916
+    },
+    "SUPER_COMPACTOR_3000": {
+        "buy": 147151.11525795824,
+        "sell": 120029.65625744934
+    },
+    "ENCHANTMENT_FRAIL_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_FRAIL_6": {
+        "buy": 99999.57857142857,
+        "sell": 10.1
+    },
+    "ENCHANTMENT_FRAIL_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "MITHRIL_ORE": {
+        "buy": 10.227910130629448,
+        "sell": 6.699999999999999
+    },
+    "ENCHANTED_PAPER": {
+        "buy": 1273.2768713204375,
+        "sell": 846.7612240860484
+    },
+    "HOT_STUFF": {
+        "buy": 8319997.2,
+        "sell": 3300000.4
+    },
+    "FLAWED_AQUAMARINE_GEM": {
+        "buy": 510.50023320775995,
+        "sell": 283.24100995377916
+    },
+    "WORM_BAIT": {
+        "buy": 2143.3031853854777,
+        "sell": 1040.5208006008568
+    },
+    "SUSPICIOUS_VIAL": {
+        "buy": 225009.09500000003,
+        "sell": 11346.6
+    },
+    "DIRT_BOTTLE": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ARACHNE_FANG": {
+        "buy": 312239.5904958677,
+        "sell": 208100.0059770115
+    },
+    "ROUGH_TOPAZ_GEM": {
+        "buy": 49.4,
+        "sell": 3.3216800039075536
+    },
+    "ENCHANTED_OBSIDIAN": {
+        "buy": 1749.1717634788333,
+        "sell": 1592.5999999999997
+    },
+    "ROUGH_OPAL_GEM": {
+        "buy": 8.9,
+        "sell": 1
+    },
+    "ENCHANTMENT_EFFICIENCY_10": {
+        "buy": 0,
+        "sell": 0
+    },
+    "WEREWOLF_SKIN": {
+        "buy": 17499.17257025761,
+        "sell": 11322.8
+    },
+    "ENCHANTMENT_SYPHON_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SYPHON_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SYPHON_5": {
+        "buy": 24879235.71666667,
+        "sell": 20800003.682608694
+    },
+    "ENCHANTMENT_SYPHON_4": {
+        "buy": 822802.5,
+        "sell": 128050.30759075908
+    },
+    "ENCHANTED_RED_SAND_CUBE": {
+        "buy": 139999.3942982456,
+        "sell": 123005.81148148148
+    },
+    "BERBERIS_FUEL_INJECTOR": {
+        "buy": 2313490.7084745765,
+        "sell": 2015677.8
+    },
+    "ENCHANTED_RAW_FISH": {
+        "buy": 1010.0609760589318,
+        "sell": 883.624816877241
+    },
+    "ENCHANTMENT_EXECUTE_6": {
+        "buy": 54100000,
+        "sell": 46000004.32
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_10": {
+        "buy": 209998.79411764705,
+        "sell": 5003.326356589148
+    },
+    "ENCHANTMENT_EXECUTE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXECUTE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXECUTE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SYPHON_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXECUTE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LOOTING_4": {
+        "buy": 73150.4,
+        "sell": 5254.8
+    },
+    "ENCHANTMENT_SMITE_7": {
+        "buy": 7160153.8,
+        "sell": 6650000.388709677
+    },
+    "ENCHANTMENT_SCAVENGER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SCAVENGER_4": {
+        "buy": 11099.997744360902,
+        "sell": 0.1
+    },
+    "ENCHANTMENT_LOOTING_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SCAVENGER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LOOTING_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_EXECUTE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "FUEL_GABAGOOL": {
+        "buy": 20995.954978354977,
+        "sell": 18104.5
+    },
+    "ENCHANTMENT_SCAVENGER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LOOTING_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CUBISM_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CUBISM_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SCAVENGER_5": {
+        "buy": 14995554.2,
+        "sell": 11156884.588235294
+    },
+    "ENCHANTMENT_CUBISM_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SHARK_BAIT": {
+        "buy": 25.677399477937854,
+        "sell": 2.6046599408187516
+    },
+    "FLAWED_CITRINE_GEM": {
+        "buy": 277.71620249540234,
+        "sell": 218.84389754260513
+    },
+    "JERRY_BOX_BLUE": {
+        "buy": 231933.00965410427,
+        "sell": 189665.8
+    },
+    "JUNGLE_KEY": {
+        "buy": 152914.85707070708,
+        "sell": 98264.08680851065
+    },
+    "ENCHANTMENT_LOOTING_5": {
+        "buy": 337433916.3,
+        "sell": 320000000.4409091
+    },
+    "ENCHANTED_SLIME_BLOCK": {
+        "buy": 126390.79653304443,
+        "sell": 124781.93826161059
+    },
+    "SCORCHED_BOOKS": {
+        "buy": 195320.820754717,
+        "sell": 115151.71445783132
+    },
+    "ENCHANTMENT_CUBISM_6": {
+        "buy": 114799997,
+        "sell": 95000001.67999999
+    },
+    "SULPHUR": {
+        "buy": 26.591769551906488,
+        "sell": 15.000055020436163
+    },
+    "FINE_SAPPHIRE_GEM": {
+        "buy": 32858.204529666116,
+        "sell": 32011.07696957486
+    },
+    "ENCHANTMENT_CUBISM_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMITE_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_CUBISM_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMITE_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_POWDER": {
+        "buy": 37339.39734151329,
+        "sell": 18377.304583857633
+    },
+    "ENCHANTMENT_EXPERTISE_10": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMITE_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMITE_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_CARROT": {
+        "buy": 635.584547373263,
+        "sell": 565.0954017196059
+    },
+    "ENCHANTMENT_SMITE_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_SMITE_6": {
+        "buy": 4435.570833333334,
+        "sell": 0
+    },
+    "FINE_AQUAMARINE_GEM": {
+        "buy": 27868.07756653992,
+        "sell": 24466.329020100504
+    },
+    "ROTTEN_FLESH": {
+        "buy": 9.797354080123917,
+        "sell": 2.5866755281654688
+    },
+    "FINE_PERIDOT_GEM": {
+        "buy": 53214.17141104294,
+        "sell": 49855.62961793021
+    },
+    "ENCHANTMENT_HECATOMB_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_1": {
+        "buy": 7099999,
+        "sell": 6440638.938709677
+    },
+    "ENCHANTMENT_HECATOMB_6": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_7": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "DUNGEON_CHEST_KEY": {
+        "buy": 141587.68333333335,
+        "sell": 104985.40551741673
+    },
+    "ENCHANTMENT_HECATOMB_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_8": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_HECATOMB_9": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GOLDEN_FRAGMENT": {
+        "buy": 11123497.799,
+        "sell": 9919751.21904762
+    },
+    "INFLATABLE_JERRY": {
+        "buy": 1.6,
+        "sell": 1.5
+    },
+    "FLAWED_TOPAZ_GEM": {
+        "buy": 1996.3893428063943,
+        "sell": 394.63079329926757
+    },
+    "ENCHANTMENT_SUNDER_1": {
+        "buy": 19044.919767441857,
+        "sell": 4202.763636363637
+    },
+    "LAPIS_CRYSTAL": {
+        "buy": 127.95632183908047,
+        "sell": 0.2
+    },
+    "FINE_AMETHYST_GEM": {
+        "buy": 34752.46358950327,
+        "sell": 32319.802870639534
+    },
+    "ENCHANTMENT_TRANSYLVANIAN_5": {
+        "buy": 985544.9351219513,
+        "sell": 492772.4
+    },
+    "SAND:1": {
+        "buy": 11.242982658344564,
+        "sell": 2.9
+    },
+    "ENCHANTED_RABBIT": {
+        "buy": 718.0016383270688,
+        "sell": 572.5
+    },
+    "SUPREME_CHOCOLATE_BAR": {
+        "buy": 240.50273858921165,
+        "sell": 126.16523383903721
+    },
+    "MEDIUM_ENCHANTED_CHEST": {
+        "buy": 12652.497321428571,
+        "sell": 8034.007258064516
+    },
+    "TOXIC_ARROW_POISON": {
+        "buy": 1977.040735782371,
+        "sell": 1897.9003222371666
+    },
+    "ENCHANTMENT_TRANSYLVANIAN_4": {
+        "buy": 685653.5695652175,
+        "sell": 150005
+    },
+    "ENCHANTMENT_SUNDER_4": {
+        "buy": 350000,
+        "sell": 4000.2
+    },
+    "ENCHANTMENT_SUNDER_5": {
+        "buy": 304178.78571428574,
+        "sell": 1000.6088235294117
+    },
+    "ENCHANTMENT_SUNDER_2": {
+        "buy": 90199.3,
+        "sell": 2000.3
+    },
+    "MUTANT_NETHER_STALK": {
+        "buy": 101607.02433566435,
+        "sell": 98668.4
+    },
+    "ENCHANTMENT_SUNDER_3": {
+        "buy": 249997.6,
+        "sell": 3000
+    },
+    "ENCHANTMENT_LUCK_6": {
+        "buy": 9999.2,
+        "sell": 0.7
+    },
+    "ENCHANTMENT_LUCK_7": {
+        "buy": 38428053,
+        "sell": 27575003
+    },
+    "ENCHANTMENT_SUNDER_6": {
+        "buy": 149391.67906976742,
+        "sell": 37401.569345794385
+    },
+    "ENCHANTMENT_LUCK_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "FLAWLESS_AMBER_GEM": {
+        "buy": 2631370.661797753,
+        "sell": 2504100.6783950613
+    },
+    "REFINED_BOTTLE_OF_JYRRE": {
+        "buy": 3398999.9,
+        "sell": 2000000.9444444445
+    },
+    "ENCHANTMENT_LUCK_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTED_BLAZE_POWDER": {
+        "buy": 4179.6366423978325,
+        "sell": 3308.009169689406
+    },
+    "ENCHANTMENT_LUCK_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_LUCK_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "SUMMONING_EYE": {
+        "buy": 1391429.4382513661,
+        "sell": 1280735.4563302754
+    },
+    "ENCHANTED_SULPHUR_CUBE": {
+        "buy": 253330.79248689572,
+        "sell": 248207.7104228122
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_8": {
+        "buy": 42352.3,
+        "sell": 0.20000000000000004
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_9": {
+        "buy": 56702.4,
+        "sell": 22.116363636363634
+    },
+    "FISH_BAIT": {
+        "buy": 371.0690175109602,
+        "sell": 280.70543869961915
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_6": {
+        "buy": 19.594117647058823,
+        "sell": 0
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_7": {
+        "buy": 7284.02,
+        "sell": 0.1
+    },
+    "ENCHANTMENT_LUCK_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_POTATO_3": {
+        "buy": 192761.3,
+        "sell": 2.2
+    },
+    "ENCHANTMENT_ULTIMATE_WISDOM_4": {
+        "buy": 2770248.6,
+        "sell": 1405062.1833333333
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_WISDOM_5": {
+        "buy": 4056006.917241379,
+        "sell": 3614790.8734374996
+    },
+    "ENCHANTMENT_TURBO_POTATO_4": {
+        "buy": 645651.6333333333,
+        "sell": 156557.4
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_5": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_TURBO_POTATO_5": {
+        "buy": 638173.2,
+        "sell": 120033.5375
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_2": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_3": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_6": {
+        "buy": 0.1,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_WISDOM_1": {
+        "buy": 229746.79318181824,
+        "sell": 181652.19541984732
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_7": {
+        "buy": 15059824.566666668,
+        "sell": 980265.12
+    },
+    "WINTER_WATER_ORB": {
+        "buy": 13399995.26875,
+        "sell": 4444445.455555555
+    },
+    "ENCHANTMENT_INFINITE_QUIVER_1": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_WISDOM_2": {
+        "buy": 475335.8666666667,
+        "sell": 345893.0441975309
+    },
+    "ENCHANTMENT_TURBO_POTATO_1": {
+        "buy": 45167.2,
+        "sell": 1677.209090909091
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_4": {
+        "buy": 0,
+        "sell": 0
+    },
+    "ENCHANTMENT_ULTIMATE_WISDOM_3": {
+        "buy": 1054456,
+        "sell": 600003.8236842105
+    },
+    "ENCHANTMENT_TURBO_POTATO_2": {
+        "buy": 59425,
+        "sell": 1.6
+    },
+    "ENCHANTMENT_BANE_OF_ARTHROPODS_5": {
+        "buy": 0,
+        "sell": 0
+    }
+}

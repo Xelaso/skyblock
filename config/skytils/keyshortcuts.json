@@ -1,0 +1,18 @@
+[
+    {
+        "message": "/echest",
+        "keyCode": 205
+    },
+    {
+        "message": "/eq",
+        "keyCode": 200
+    },
+    {
+        "message": "/wardrobe",
+        "keyCode": 203
+    },
+    {
+        "message": "/pets",
+        "keyCode": 208
+    }
+]

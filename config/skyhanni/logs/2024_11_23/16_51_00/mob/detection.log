@@ -1,0 +1,18 @@
+16:52:11 `Bat`17802 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-59.9375, y=121.875, z=-2.78125}
+ DistanceC: 16.594469791713706
+Relative Position: LorenzVec{x=-16.594469791713706, y=2.875, z=0.8268549966978358}
+ }
+16:54:29 `2bk6391m54`253 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-74.0, y=65.0, z=-50.0}
+ DistanceC: 23.50150610981305
+Relative Position: LorenzVec{x=-23.50150610981305, y=-6.0, z=-20.69999998807907}
+ }
+18:37:46 `dm57fc29i9`1 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-271.5, y=113.0, z=-196.5}
+ DistanceC: 13.448065562647457
+Relative Position: LorenzVec{x=-5.985794222217862, y=19.0, z=13.448065562647457}
+ }

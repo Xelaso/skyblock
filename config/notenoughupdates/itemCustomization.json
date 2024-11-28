@@ -1,0 +1,57 @@
+{
+  "itemData": {
+    "8185ed22-73c5-44de-9d11-5ec73be7d2e2": {
+      "customName": "§ZGhost",
+      "customNamePrefix": "§a",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:255:255:0:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:diamond_pickaxe",
+      "customItem": "diamond_pickaxe"
+    },
+    "760b5680-7d3a-462d-86d1-680aaf62d37f": {
+      "customName": "§ZMoody Grappleshot",
+      "customNamePrefix": "§5",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:204:160:230:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:tripwire_hook",
+      "customItem": "lead"
+    },
+    "14efa409-933c-4d58-8b4f-f803d6a3e6ad": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:204:255:0:15",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:stone_sword",
+      "customItem": "stone_sword"
+    },
+    "ff3814a9-c295-4bc8-8e96-bf3f2678991e": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:219:0:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:bow",
+      "customItem": "bow"
+    },
+    "ece01cbd-f76b-439d-aed6-b6986c9f7081": {
+      "customName": "§ZAOTV",
+      "customNamePrefix": "§6",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:172:0:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:diamond_shovel",
+      "customItem": "ender_eye"
+    }
+  }
+}

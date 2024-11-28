@@ -1,0 +1,61 @@
+23:57:57 [SKYMALL] §bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!
+23:57:57 [SKYMALL] §eNew buff§r§r§r: §r§f§r§a-20%§r§f Pickaxe Ability cooldowns.
+23:57:57 [SKYMALL] §8§oYou can disable this messaging by toggling Sky Mall in your /hotm!
+00:00:13 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJamie§f: §r§fNo worries.
+00:00:18 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJack§f: §r§fI'll come by later.
+00:00:20 [GARDEN_VISITOR_MESSAGE] §e[NPC] §9Old Man Garry§f: §r§fPeople have no manners these days. They come up to me, and disappear instantly! They don't even greet me! Back in my day, we were raised better than that.
+00:00:25 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFriendly Hiker§f: §r§fI'm planning to head back into the gorge to fetch my hiker friend, but I'll need some meat to cook before I head in there.
+00:00:31 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFriendly Hiker§f: §r§fThat's alright. I can always head into the Oasis to hunt down some sheep.
+00:00:32 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFisherman§f: §r§fA Carrot King has been scaring off all the good fish, I need to deal with it before I lose more fish.
+00:00:35 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFisherman§f: §r§fS'alright, we are all busy some days.
+00:00:47 [GARDEN_VISITOR_MESSAGE] §e[NPC] §9Old Man Garry§f: §r§fIt turns out, manners haven't all been lost yet.
+00:01:07 [PEST_DROP] §eYou received §a67x Enchanted Potato §efor killing a §2Locust§e!
+00:01:31 [PEST_DROP] §eYou received §a56x Enchanted Cocoa Beans §efor killing a §2Moth§e!
+00:01:42 [PEST_DROP] §eYou received §a40x Enchanted Cactus Green §efor killing a §2Mite§e!
+00:02:00 [PEST_DROP] §eYou received §a20x Enchanted Pumpkin §efor killing a §2Rat§e!
+00:05:24 [NEW_VISITOR_ARRIVED] §a§r§aOdawa §r§ehas arrived on your §r§aGarden§r§e!
+00:09:36 [NEW_VISITOR_ARRIVED] §a§r§aJotraeline Greatforge §r§ehas arrived on your §r§aGarden§r§e!
+00:13:46 [NEW_VISITOR_ARRIVED] §a§r§aFisherman §r§ehas arrived on your §r§aGarden§r§e!
+00:15:00 [SKYMALL] §bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!
+00:15:00 [SKYMALL] §eNew buff§r§r§r: §r§f§r§a-20%§r§f Pickaxe Ability cooldowns.
+00:15:00 [SKYMALL] §8§oYou can disable this messaging by toggling Sky Mall in your /hotm!
+00:18:32 [NEW_VISITOR_ARRIVED] §a§r§aJack §r§ehas arrived on your §r§aGarden§r§e!
+00:22:58 [NEW_VISITOR_ARRIVED] §9§r§9Zog §r§ehas arrived on your §r§aGarden§r§e!
+00:33:29 [PEST_DROP] §eYou received §a48x Enchanted Cocoa Beans §efor killing a §2Moth§e!
+00:33:48 [PEST_DROP] §eYou received §a18x Enchanted Wheat §efor killing a §2Fly§e!
+00:35:01 [SKYMALL] §bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!
+00:35:01 [SKYMALL] §eNew buff§r§r§r: §r§fGain §r§6+50☘ Mining Fortune§r§f.
+00:35:01 [SKYMALL] §8§oYou can disable this messaging by toggling Sky Mall in your /hotm!
+00:35:51 [PEST_DROP] §eYou received §a56x Enchanted Cocoa Beans §efor killing a §2Moth§e!
+00:36:02 [PEST_DROP] §eYou received §a40x Enchanted Cactus Green §efor killing a §2Mite§e!
+00:37:16 [BESTIARY] §f                                  §6§lBESTIARY
+00:37:16 [BESTIARY] §f                                §b§lMoth §7§8IX §8➡§b §bX
+00:37:16 [BESTIARY] 
+00:37:16 [BESTIARY] §f                                  §r§6§lREWARDS
+00:37:16 [BESTIARY] §f                          §r§6+0.4☘ Farming Fortune
+00:37:16 [BESTIARY] §f                               §r§8+§r§62% §r§aMoth §r§7coins
+00:37:16 [BESTIARY] §f                    §r§8+§r§a50% §r§7chance for extra XP orbs
+00:37:16 [BESTIARY] §f                               §r§8+§r§b1 SkyBlock XP
+00:37:16 [BESTIARY] 
+00:37:16 [BESTIARY] §3§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+00:37:16 [PEST_DROP] §eYou received §a57x Enchanted Cocoa Beans §efor killing a §2Moth§e!
+00:37:19 [PEST_DROP] §eYou received §a57x Enchanted Cocoa Beans §efor killing a §2Moth§e!
+00:38:16 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aOdawa§f: §r§fI'm supposed to collect some food for the village, the Kalhuiki people have been through a tough time recently.
+00:39:42 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJotraeline Greatforge§f: §r§fI heard you have a composter in your barn, it happens to run on the same fuel drills run on! Could I check it out?
+00:39:47 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFisherman§f: §r§fA Carrot King has been scaring off all the good fish, I need to deal with it before I lose more fish.
+00:39:50 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aFisherman§f: §r§fS'alright, we are all busy some days.
+00:39:52 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJack§f: §r§fDid you know that you gain additional §6☘ Farming Fortune §fwhile on the §aThe Garden§f? You can check it in your SkyBlock Profile!
+00:39:54 [NEW_VISITOR_ARRIVED] §a§r§aPlumber Joe §r§ehas arrived on your §r§aGarden§r§e!
+00:39:59 [GARDEN_VISITOR_MESSAGE] §e[NPC] §9Zog§f: §r§fI have a big problem. I lost my sense of taste, now I can't tell the difference between a melon and a cactus...
+00:40:40 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aPlumber Joe§f: §r§fI once dumped a magical water bucket into the toilet. It won't stop overflowing. Anyway, you got something for me?
+00:40:46 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aPlumber Joe§f: §r§fI guess I'll just try to fix it myself.
+00:43:38 [GARDEN_VISITOR_MESSAGE] §e[NPC] §9Zog§f: §r§fEating enough of these surely should bring back my taste memories. Thank you.
+00:43:40 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJack§f: §r§fThanks for the crops. See ya around.
+00:43:43 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aJotraeline Greatforge§f: §r§fQuite fascinating technology you have there, I'm sure with this machinery we could create even better appliances in the future!
+00:43:45 [GARDEN_VISITOR_MESSAGE] §e[NPC] §aOdawa§f: §r§fPerfect! I'll share the good news with my village!
+00:55:01 [SKYMALL] §bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!
+00:55:01 [SKYMALL] §eNew buff§r§r§r: §r§fGain §r§6+50☘ Mining Fortune§r§f.
+00:55:01 [SKYMALL] §8§oYou can disable this messaging by toggling Sky Mall in your /hotm!
+01:15:02 [SKYMALL] §bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!
+01:15:02 [SKYMALL] §eNew buff§r§r§r: §r§fGain §r§a+15% §r§fmore Powder while mining.
+01:15:02 [SKYMALL] §8§oYou can disable this messaging by toggling Sky Mall in your /hotm!
